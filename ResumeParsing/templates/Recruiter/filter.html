@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RESUME DATA</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+  
+
+</head>
+<body>
+<nav class="navbar navbar-expand-sm  fixed-top bg-primary">
+  <a class="navbar-brand text-light" href="">Resume Parsing</a>
+  <ul class="navbar-nav">
+
+
+    <li class="nav-item">
+      <a class="nav-link text-light" href="{% url 'home'%}">Home</a>
+    </li>
+
+  </ul>
+    <ul class="navbar-nav  justify-content-end">
+
+
+
+
+
+  </ul>
+</nav>
+<br>
+<br>
+<br>
+   
+<div class="container-fluid mt-2">
+  <h2 class="text-center alert alert-primary">RESUME PARSER</h2>
+<div class="container mt-1">
+  <div class="row">
+      <div class="col-12 text-center">
+          <h4 class="text-center text-primary">FILTER DATA</h4>
+          <div class="media border p-3">
+            <div class="btn-group">
+               
+               
+                <div class="btn-group ml-3">
+                  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                  Work Experience
+                  </button>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">1 Year</a>
+                    <a class="dropdown-item" href="#">2 Year</a>
+                    <a class="dropdown-item" href="#">3 Year</a>
+                    <a class="dropdown-item" href="#">4 Year</a>
+                    <a class="dropdown-item" href="#">5 Year</a>
+                   
+                  </div>
+                </div>
+               
+                <div class="btn-group ml-3">
+                  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                   Programming  Languages Known
+                  </button>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">C</a>
+                    <a class="dropdown-item" href="#">C++</a>
+                    <a class="dropdown-item" href="#">Python</a>
+                    <a class="dropdown-item" href="#">Java</a>
+                  </div>
+                </div>
+               
+                <div class="btn-group ml-5">
+                  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                     Location
+                  </button>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">Mumbai</a>
+                    <a class="dropdown-item" href="#">Delhi</a>
+                  </div>
+                </div>
+                <div class="btn-group ml-5">
+                  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                     Designation
+                  </button>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">Sr. Manager</a>
+                    <a class="dropdown-item" href="#">DMA</a>
+                  </div>
+                </div>
+                <div class="btn-group ml-5">
+                  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                     Education/Degree
+                  </button>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">B.E</a>
+                    <a class="dropdown-item" href="#">M.E</a>
+                  </div>
+                </div>
+              </div>
+            
+          </div>
+      </div>
+
+     
+  </div>
+
+</div>
+<div class="row">
+
+    <div class="col-12  mt-2 ml-3 mr-3 p-4">
+
+        
+        <div class="media border p-3 mt-2 border-primary">
+          
+            <div class="media-body">
+              <h4>Ami Jape <small><i>BE (Bachelor Of Enginerring)</i></small></h4>
+              <small>Work Experience : Fresher</small>
+              <small>Languages Known : C , C++ , Python , Java</small>
+              <a class="btn btn-primary ml-5 " href="{% url 'resumedata' %}">Resume Data</a>
+              
+            </div>
+            
+          </div>
+    </div>
+
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

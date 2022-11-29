@@ -1,0 +1,149 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    
+<style>
+  .mycolor{
+      background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  }
+  .my2color{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(17,54,175,1) 0%, rgba(9,9,121,1) 0%, rgba(20,80,221,1) 85%, rgba(2,32,248,1) 96%, rgba(0,1,255,1) 100%);
+  }
+ 
+      .my{
+      box-shadow: 25px;
+  }
+</style>
+     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity=
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body class="text-center my2color" >
+<nav class="navbar navbar-expand-sm  fixed-top bg-primary">
+  <a class="navbar-brand text-light" href="">Resume Parsing</a>
+  <ul class="navbar-nav">
+
+
+    <li class="nav-item">
+      <a class="nav-link text-light" href="">Home</a>
+    </li>
+
+  </ul>
+    <ul class="navbar-nav  justify-content-end">
+
+
+    <li class="nav-item">
+      <a class="nav-link text-light" href="{% url 'login'%}" >Login</a>
+    </li>
+        <li class="nav-item">
+      <a class="nav-link text-light" href="" data-toggle="modal" data-target="#signup">Signup</a>
+    </li>
+
+  </ul>
+</nav>
+<br>
+<br>
+<br>
+{% comment %} {% load static %}
+<img src="{% static 'images/java.png' %}" alt="My image">
+<img src ="java.png"> {% endcomment %}
+{% for message in messages %}
+    <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+        <strong>Message:</strong> {{ message }}
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+    </div>
+    {% endfor %}
+
+<div class="container mt-5">
+    <div class="card bg-primary text-light">
+      <div class="card-body text-center">
+        <h1 class="card-title">Resume Parsing Website - By LTCE Students</h1>
+        <h2 class="card-text">This is the best website for resume parsing</h2>
+        <h4 class="card-title">Leader Name : Samyakta Patil</h4>
+        <h4 class="card-title">Group Members Name :</h4>
+        <h4 class="card-title">Advait</h4>
+        <h4 class="card-title">Akshata</h4>
+        <h4 class="card-title">Suraj Sahani</h4>
+       
+      </div>
+    </div>
+  </div>
+  
+ 
+  <div class="container" role="alert">
+
+  </div>
+
+  {% comment %} {% for message in x %}
+  <div class="container" role="alert">
+     <p>message</p>
+  <span aria-hidden="true">&times;</span>
+</button>
+  </div>
+  {% endfor %} {% endcomment %}
+<!-- The Signup -->
+<div class="modal" id="signup">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      
+      <div class="modal-header">
+        <h4 class="modal-title">Signup</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      
+      <div class="modal-body">
+       <form action="{% url 'signup'%}" class="needs-validation" method="post" novalidate enctype="multipart/form-data">
+        {% csrf_token %}
+  {{form.as_p}}
+ <div class="container text-center">
+         <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>
+
+
+      </div>
+
+      
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+</div>
+<script>
+
+(function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    
+    var forms = document.getElementsByClassName('needs-validation');
+   
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+</script>
+</body>
+</html>

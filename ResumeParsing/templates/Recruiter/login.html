@@ -1,0 +1,244 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+   <style>
+    body{
+        height: 100vh;
+        background: #fff !important;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .card{
+        /* overflow: hidden; */
+        border: 3 !important;
+        border-radius: 20px !important;
+        box-shadow: 0 0.5rem 1rem 0 rgba(47, 7, 223, 0.1);
+      }
+      
+      .img-left{
+        width: 45%;
+        background: url('background1.jpg') center;
+        background-size: cover;
+      }
+      
+      .card-body{
+        padding: 2rem;
+      }
+      
+      .title{
+        margin-bottom: 2rem;
+      }
+      
+      .form-input{
+        position: relative;
+      }
+      .f{
+        color:rgb(255,255,255);
+      }
+      
+      .form-input input{
+        width: 100%;
+        height: 45px;
+        padding-left: 40px;
+        margin-bottom: 20px;
+        box-sizing: border-box;
+        box-shadow: none;
+        border: 1px solid #00000020;
+        border-radius: 50px;
+        outline: none;
+        background: transparent;
+        background-image: linear-gradient(to right, #0084ff, #00f2ff); 
+      }
+      
+      .form-input span{
+       
+    
+        position:absolute;
+        display:block;
+        top: 10px;
+        padding-left: 15px;
+        color:rgb(255,255,255);
+      }
+      
+      .form-input input::placeholder{
+        /* color: black;
+        padding-left: 0px; */
+    
+        color:#fff;
+        opacity: 0.6;
+      }
+      
+      .form-input input:focus, .form-input input:valid{
+        border: 2px solid #007bff;
+      }
+      
+      .form-input input:focus::placeholder{
+        color: #454b69;
+      }
+      
+      .custom-checkbox .custom-control-input:checked ~ .custom-control-label::before{
+        background-color: #007bff !important;
+        border: 0px;
+      }
+      
+      .form-box button[type="submit"]{
+        margin-top: 10px;
+        border: none;
+        cursor: pointer;
+        border-radius: 50px;
+        background: #007bff;
+        color: #fff;
+        font-size: 90%;
+        font-weight: bold;
+        letter-spacing: .1rem;
+        transition: 0.5s;
+        padding: 12px;
+        background-image: linear-gradient(to right, #0084ff, #00f2ff); 
+      }
+      
+      .form-box button[type="submit"]:hover{
+        background: #1b05dd;
+      }
+      
+      .forget-link, .register-link{
+        color: #007bff;
+        font-weight: bold;
+      }
+      
+      .forget-link:hover, .register-link:hover{
+        color: #0069d9;
+        text-decoration: none;
+      }
+      
+      .form-box .btn-social{
+        color: white !important;
+        border: 0;
+        font-weight: bold;
+      }
+      
+      .form-box .btn-facebook{
+        background: #4866a8;
+      }
+      
+      .form-box .btn-google{
+        background: #5909ee;
+      }
+      
+      .form-box .btn-twitter{
+        background: #33ccff;
+      }
+      
+      .form-box .btn-facebook:hover{
+        background: #3d578f;
+      }
+      
+      .form-box .btn-google:hover{
+        background: #2907e7;
+      }
+      
+      .form-box .btn-twitter:hover{
+        background: #2eb7e5;
+      }
+      
+      
+   </style>
+
+</head>
+<body>
+<nav class="navbar navbar-expand-sm  fixed-top bg-primary">
+  <a class="navbar-brand text-light" href="">Resume Parsing</a>
+  <ul class="navbar-nav">
+
+
+    <li class="nav-item">
+      <a class="nav-link text-light" href="{% url 'home'%}">Home</a>
+    </li>
+
+  </ul>
+    <ul class="navbar-nav  justify-content-end">
+
+
+
+
+
+  </ul>
+</nav>
+<br>
+<br>
+<br>
+{% for message in messages %}
+    <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+        <strong>Message:</strong> {{ message }}
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+    </div>
+    {% endfor %}
+ 
+   
+    <div class="container p-5">
+        <div class="row px-5">
+          <div class="col-lg-10 col-xl-9 card flex-row mx-auto px-0">
+           
+    
+            <div class="card-body">
+              <h4 class="title text-center mt-4">
+                LOGIN INTO RESUME PARSING WEBSITE
+              </h4>
+              <form class="form-box px-3" action="{% url 'login'%}" method="post">
+                {% csrf_token %}
+                <div class="form-input">
+                  <span><i class="fa fa-envelope-o f"></i></span>
+                  <input type="text" name="username" placeholder="Email Address" tabindex="10" required>
+                </div>
+                <div class="form-input">
+                  <span><i class="fa fa-key f"></i></span>
+                  <input type="password" name="password" placeholder="Password" required>
+                </div>
+    
+                <div class="mb-3">
+                  <div class="custom-control custom-checkbox">
+                    <input type="checkbox" class="custom-control-input" id="cb1" name="">
+                    <label class="custom-control-label" for="cb1">Remember me</label>
+                  </div>
+                </div>
+    
+                <div class="mb-3">
+                  <button type="submit" class="btn btn-block text-uppercase">
+                    Login
+                  </button>
+                </div>
+    
+                
+    
+               
+    
+               
+    
+                <hr class="my-4">
+    
+                <div class="text-center mb-2">
+                  Don't have an account?
+                  <a href="{% url 'home'%}" class="register-link">
+                    Register here
+                  </a>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

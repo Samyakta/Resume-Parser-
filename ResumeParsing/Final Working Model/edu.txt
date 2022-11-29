@@ -1,0 +1,2050 @@
+SCHOOL,PROGRAM,DEGREE,ONLINE,ONCAMPUS,COUNTRY,STATE,CITY,DEPARTMENT,URL
+Auburn University,Online Master of Business Administration with concentration in Business Analytics,M,F,T,US,AL,Auburn,Raymond J. Harbert College of Business,http://harbert.auburn.edu/academics/online-programs/mba-online/index.php
+Auburn University,Data Science,B,F,T,US,AL,Auburn,Business,http://harbert.auburn.edu/academics/undergraduate/business-analytics/index.php
+The University of Alabama,"Master of Science in Marketing, Specialization in Marketing Analytics",M,T,F,US,AL,Tuscaloosa,Manderson Graduate School of Business,http://bamabydistance.ua.edu/degrees/ms-in-marketing-with-a-specialization-in-marketing-analytics/index.php
+The University of Alabama,MS in Operations Management - Decision Analytics Track,M,F,T,US,AL,Tuscaloosa,Manderson Graduate School of Business,http://bamabydistance.ua.edu/degrees/ms-in-operations-management-online/curriculum/decision-analytics-track.php
+The University of Alabama,"M.S. degree in Applied Statistics, Data Mining Track",M,F,T,US,AL,Tuscaloosa,Manderson Graduate School of Business,http://manderson.cba.ua.edu/academics/departments/masters_program/master_of_science_in_applied_statistics
+The University of Alabama,MBA with concentration in Business Analytics,M,T,F,US,AL,Tuscaloosa,Culverhouse College of Commerce,http://manderson.cba.ua.edu/academics/departments/mba_program/curriculum
+Arkansas Tech University,Business Data Analytics,B,F,T,US,AR,Russellville,Business,http://www.atu.edu/business/programs_bdanalytics.php
+University of Arkansas,Graduate Certificate in Business Analytics,C,T,F,US,AR,Fayetteville,Sam M. Walton College of Business,http://gsb.uark.edu/business-analytics-certificate/
+University of Arkansas,Master of Information Systems with Business Analytics Concentration,M,F,T,US,AR,Fayetteville,Sam M. Walton College of Business,http://gsb.uark.edu/master-of-information-systems/
+University of Arkansas,Professional Master of Information Systems,M,F,T,US,AR,Fayetteville,Sam M. Walton College of Business,http://online.uark.edu/programs/professional-master-information-systems.html
+University of Arkansas at Little Rock,Information Quality Program,M,F,T,US,AR,Little Rock,Information Quality,http://ualr.edu/informationquality/
+University of Arkansas at Little Rock,Information Quality Program PhD,D,F,T,US,AR,Little Rock,Information Quality,http://ualr.edu/informationquality/phd
+Arizona State University,Advanced Analytics in Higher Education,C,T,F,US,AZ,Tempe,,http://asuonline.asu.edu/online-degree-programs/certificates/graduate-certificate-advanced-analytics-higher-education
+Arizona State University,Business Analytics,M,F,T,US,AZ,Tempe,Business,http://wpcarey.asu.edu/masters-programs/business-analytics
+Arizona State University,Business Data Analytics,B,F,T,US,AZ,Tempe,Business,http://wpcarey.asu.edu/undergraduate-degrees/data-analytics
+Arizona State University,Master of Science in Business Analytics,M,T,F,US,AZ,Tempe,W.P. Carey School of Business,https://programs.wpcarey.asu.edu/masters-programs/online-business-analytics
+University of Arizona,Business Intelligence & Analytics (Certificate NDP),C,F,T,US,AZ,Tucson,"Management Information Systems (MIS) Department, in association with t",http://grad.arizona.edu/programs/programinfo/BIACRTG
+California Polytechnic State University,Data Science Minor,B,F,T,US,CA,San Luis Obispo,College of Science and Mathematics,http://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/crossdisciplinarystudiesminordatascience/
+California Polytechnic State University,Business Analytics,M,F,T,US,CA,San Luis Obispo,Business,http://www.cob.calpoly.edu/gradbusiness/degree-programs/ms-business-analytics/
+California State University-East Bay,Master of Science in Business Administration: Business Analytics Option,M,T,F,US,CA,Hayward,College of Business and Economics,http://www20.csueastbay.edu/cbe/msba/index.html
+California State University-Fullerton,Master of Science in Information Systems and Decision Sciences,M,T,F,US,CA,Fullerton,Mihaylo College of Business and Economics,http://business.fullerton.edu/graduateprograms/msis/
+California State University-Fullerton,Certificate in Data Science,C,T,F,US,CA,Fullerton,University Extended Education,http://extension.fullerton.edu/ProfessionalDevelopment/Certificates/Data-Science
+California State University-Fullerton,Certificate in Healthcare Analytics,C,T,F,US,CA,Fullerton,University Extended Education,http://extension.fullerton.edu/ProfessionalDevelopment/Certificates/Healthcare-Analytics
+California State University-Fullerton,MBA with Business Analytics,M,F,T,US,CA,Fullerton,Mihaylo College of Business and Economics,http://catalog.fullerton.edu/preview_program.php?catoid=2&poid=473&returnto=143
+California State University-Long Beach,Master of Science in Applied Statistics,M,T,F,US,CA,Long Beach,Department of Mathematics and Statistics,http://www.csulb.edu/divisions/aa/catalog/current/cnsm/mathematics/mathms05.html
+California State University-San Bernardino,Master of Business Administration (M.B.A.) - Business Intelligence and Information Technology Focus,M,F,T,US,CA,San Bernardino,College of Business and Public Administration,http://bulletin.csusb.edu/colleges-schools-departments/business-public-administration/mba/
+Chapman University,Master of Science in Computational and Data Sciences,M,T,F,US,CA,Orange,Schmid College of Science & Technology,http://www.chapman.edu/scst/graduate/ms-computational-sciences.aspx
+Chapman University,Computational and Data Sciences,D,F,T,US,CA,Orange,Interdisciplinary,http://www.chapman.edu/scst/graduate/phd-computational-science.aspx
+Claremont Graduate University,Masters of Science in Information Systems & Technology: Concentration in Data Science & Analytics,M,F,T,US,CA,Claremont,Center for Information Systems and Technology (CISAT),http://www.cgu.edu/pages/6650.asp
+Galvanize U,Master of Engineering in Big Data,M,F,T,US,CA,San Francisco,Partnership w/University of New Haven,http://www.galvanizeu.com/
+National University,Master of Science in Data Analytics,M,F,T,US,CA,La Jolla,"School of Engineering, Technology and Media",http://www.nu.edu/OurPrograms/SchoolOfEngineeringAndTechnology/ComputerScienceAndInformationSystems/Programs/MasterofScienceinDataAnalytics.html
+National University,Master of Science in Health and Life Science Analytics,M,F,T,US,CA,La Jolla,School of Health and Human Services,http://www.nu.edu/OurPrograms/SchoolOfHealthAndHumanServices/CommunityHealth/Programs/MasterofScienceinHealth&LifeScienceAnalytics.html
+San Jose State University,Online Business Analytics Certificate,C,F,T,US,CA,San Jose,Lucas Graduate School of Business,http://www.sjsu.edu/lucasschool/bacertificate/
+Loyola Marymount University,MS in Business Analytics,M,F,T,US,CA,Los Angelos,Business,https://cba.lmu.edu/academics/graduateprograms/businessanalytics/
+Santa Clara University,MBA with concentration in Data Science and Business Analytics,M,T,F,US,CA,Santa Clara,Leavey School of Business,http://www.scu.edu/business/graduates/current-students/data-science.cfm
+Stanford University,"Master of Science In Computer Science, Specialization in Information Management and Analytics",M,F,T,US,CA,Stanford,Department of Computer Science,http://cs.stanford.edu/degrees/mscs/specializations/#IMA
+Stanford University,Mining Massive Data Sets Graduate Certificate,C,F,F,US,CA,Stanford,Center for Professional Development,http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=10555807
+Stanford University,Data Mining and Applications Graduate Certificate,C,F,T,US,CA,Stanford,Center for Professional Development,http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1209602
+Stanford University,Biomedical Informatics MS Degree,M,F,T,US,CA,Stanford,School of Medicine: Department of Biomedial Informatics,http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240186#searchResults
+Stanford University,M.S. in Statistics: Data Science,M,T,F,US,CA,Stanford,Department of Statistics,https://statistics.stanford.edu/academics/ms-statistics-data-science
+University of California Hastings College of Law,Master of Information Management and Systems,M,F,T,US,CA,San Francisco,School of Information,http://www.ischool.berkeley.edu/programs/mims
+University of California-Davis,Hybrid MBA with Business Analytics and Technologies Concentration,M,F,T,US,CA,Davis,Graduate School of Management,http://gsm.ucdavis.edu/bay-area-mba
+University of California-Davis,Master's of Health Informatics,M,T,T,US,CA,Davis,School of Medicine,http://www.ucdmc.ucdavis.edu/informatics/masters/
+University of California-Irvine,Data Science,B,F,T,US,CA,Irvine,Statistics,http://www.stat.uci.edu/ugrad/datascience
+University of California-Irvine,Business Intelligence & Data Warehousing Certificate,C,T,F,US,CA,Irvine,UCI Extension School,http://unex.uci.edu/areas/it/data_warehousing/
+University of California-Irvine,Predictive Analytics Certificate Program,C,T,F,US,CA,Irvine,UCI Extension School,http://unex.uci.edu/areas/it/predictive_analytics/
+University of California-San Diego,Data Mining Certificate,C,T,F,US,CA,La Jolla,UC San Diego Extension School,http://extension.ucsd.edu/programs/index.cfm?vAction=certDetail&vCertificateID=128&vStudyAreaID=14
+University of California-San Diego,Master of Advanced Study in Data Science and Engineering,M,F,T,US,CA,La Jolla,Departments of Computer Science and Engineering,http://www.jacobsschool.ucsd.edu/mas/dse/index.sfe
+University of California-San Diego,Master of Science in Business Analytics,M,F,T,US,CA,La Jolla,Rady School of Management,http://rady.ucsd.edu/msba/
+University of California-Berkeley,Information and Data Science,M,T,F,US,CA,Berkeley,School of Information,http://datascience.berkeley.edu/
+University of California-Berkeley,Business Intelligence and SAS Analytics Software,C,F,T,US,CA,Berkeley,,http://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17152&selectedProgramAreaId=15499&selectedProgramStreamId=16388
+University of California-Berkeley,Data Science and Systems Concentration,M,F,T,US,CA,Berkeley,Engineering,http://www.eecs.berkeley.edu/MEng/index.shtml
+University of San Francisco,Master of Science in Health Informatics,M,F,T,US,CA,San Francisco,School of Nursing and Health Professions,https://www.usfca.edu/nursing/programs/graduate/masters/health-informatics
+University of San Francisco,Master of Science in Data Science,M,T,T,US,CA,San Francisco,College of Arts and Sciences,http://www.usfca.edu/msds/
+University Of San Francisco,Data Science,B,F,T,US,CA,San Francisco,College of Arts and Sciences,http://usfca.edu/artsci/bsds/
+University of Southern California,Master of Science in Computer Science - Data Science,M,F,T,US,CA,Los Angeles,Viterbi School of Engineering,http://gapp.usc.edu/graduate-programs/masters/computer-science/data-science
+University of Southern California,Master of Science in Healthcare Decision Analysis Concentration in Business Intelligence,M,T,F,US,CA,Los Angeles,School of Pharmacy,http://hcda.usc.edu/program/
+University of Southern California,Master of Science in Business Analytics,M,T,F,US,CA,Los Angeles,Marshall School of Business,http://www.marshall.usc.edu/msanalytics
+University of the Pacific,Master of Science in Analytics,M,T,F,US,CA,Stockton,School of Engineering and Computer Science,http://www.pacific.edu/Academics/Schools-and-Colleges/School-of-Engineering-and-Computer-Science/Academics-/MS-Analytics-Program.html
+American Sentinel University,Master of Science Business Intelligence and Analytics (MSBIA),M,F,T,US,CO,Aurora,None listed,http://www.americansentinel.edu/management/m-s-business-intelligence
+Aspen University,Master of Science in Technology and Innovation - Business Intelligence and Data Management,M,T,F,US,CO,Denver,None listed,http://www.aspen.edu/degrees/masters-degree/master-of-science-in-technology-and-innovation-business-intelligence-and-data-management
+Colorado State University-Fort Collins,Graduate Certificate in Business Intelligence,C,F,T,US,CO,Fort Collins,College of Business,http://biz.colostate.edu/degreesCertificates/Pages/certificatePrograms.aspx
+Colorado State University-Fort Collins,Applied Statistics Certificate,C,F,T,US,CO,Fort Collins,Department of Statistics,http://www.online.colostate.edu/certificates/applied-statistics/
+Colorado State University-Fort Collins,Data Analysis Certificate,C,T,F,US,CO,Fort Collins,Department of Statistics,http://www.online.colostate.edu/certificates/data-analysis/
+Colorado State University-Fort Collins,Data Sciene,M,F,T,US,CO,Fort Collins,College of Natural Sciences,http://www.natsci.colostate.edu/data-science/
+Colorado State University-Fort Collins,Master of Applied Statistics (M.A.S.),M,F,T,US,CO,Fort Collins,Department of Statistics,http://www.online.colostate.edu/degrees/applied-statistics/
+Colorado State University-Global Campus,Certificate in Business Intelligence,C,F,T,US,CO,Greenwood Village,None listed,https://csuglobal.edu/graduate/programs/certificates-completion/business-intelligence/
+Colorado Technical University,Big Data Analytics,D,T,T,US,CO,Denver,,http://www.coloradotech.edu/degrees/doctorates/computer-science/big-data
+Regis University,Graduate Certificate in Data Science,C,T,F,US,CO,Denver,College of Computer and Information Sciences,http://www.regis.edu/CCIS/Academics/Degrees-Programs/Certificates/GC-Data-Science.aspx
+Regis University,Data Science,M,T,T,US,CO,Denver,College of Computer and Information Sciences,http://www.regis.edu/CCIS/Academics/Degrees-Programs/Graduate-Programs/MS-Data-Sciences.aspx
+University of Colorado Boulder,Master of Science in Business Analytics,M,F,T,US,CO,Boulder,Leeds School of Business,http://www.colorado.edu/leedsms/ms-programs
+University of Colorado Boulder,Professional Graduate Certificate in Earth Data Analytics,C,T,T,US,CO,Boulder,Geography - Earth Lab,https://www.colorado.edu/earthlab/earth-data-analytics-foundations-professional-certificate
+University of Colorado Denver,MS in Decision Sciences,M,F,T,US,CO,Denver,Business School,http://catalog.ucdenver.edu/preview_program.php?catoid=10&poid=2105&returnto=1350
+University of Colorado Denver,Graduate Applied Statistics Certificate,C,F,T,US,CO,Denver,College of Arts and Sciences: Department of Mathematical and Statistical Sc,http://catalog.ucdenver.edu/preview_program.php?catoid=7&poid=1329&returnto=827
+University of Colorado Denver,MS in Business Analytics - Big Data Specialization,M,T,F,US,CO,Denver,Business School,http://www.ucdenver.edu/academics/colleges/business/degrees/ms/business-analytics/Pages/Big-Data.aspx
+University of Colorado Denver,MS in Information Systems - Business Intelligence,M,T,F,US,CO,Denver,Business School,http://www.ucdenver.edu/academics/colleges/business/degrees/ms/IS/Pages/Business-Intelligence-Systems.aspx
+University of Colorado Denver,Master of Science in Information Systems,M,F,T,US,CO,Denver,Business School,http://www.ucdenver.edu/academics/colleges/business/degrees/ms/IS/Pages/Information-Systems.aspx
+University of Denver,Business Information and Analytics Certificate,C,F,T,US,CO,Denver,Daniels College of Business,http://daniels.du.edu/academic-programs/certificates-professional-development/graduate-business-certificates/business-information-analytics/
+University of Denver,Master of Science in Business Analytics,M,T,F,US,CO,Denver,Daniels College of Business,http://daniels.du.edu/masters-degrees/business-analytics/
+Central Connecticut State University,Data Mining,M,T,F,US,CT,New Britain,,http://web.ccsu.edu/datamining/
+Central Connecticut State University,Graduate Certificate in Data Mining,C,T,F,US,CT,New Britain,Department of Mathematical Sciences,http://web.ccsu.edu/datamining/graduate%20certificate.html
+Quinnipiac University,Master of Science in Business Analytics,M,T,F,US,CT,Hamden,School of Business,http://www.quinnipiac.edu/academics/qu-online/online-programs/online-graduate-programs/master-of-science-in-business-analytics/
+University of Connecticut,Master of Science in Business Analytics and Project Management,M,F,T,US,CT,Storrs,School of Business,http://msbapm.business.uconn.edu/
+University of New Haven,M.B.A. - Business Intelligence Concentration,M,F,T,US,CT,West Haven,College of Business,http://catalog.newhaven.edu/preview_program.php?catoid=3&poid=673&returnto=604
+University of Saint Joseph,Graduate Certificate in Health Informatics,C,T,F,US,CT,West Hartford,School of Health and Natural Sciences,http://catalog.usj.edu/preview_program.php?catoid=9&poid=1277
+Yale University,Statistics and Data Science,D,F,T,US,CT,New Haven,Department of Statistics and Data Science,http://statistics.yale.edu/academics/phd-program
+Yale University,Statistics and Data Science,B,F,T,US,CT,New Haven,Department of Statistics and Data Science,https://statistics.yale.edu/academics/the-major
+American University,MS Business Analytics,M,F,T,US,DC,Washington,Kogod School of Business,http://www.american.edu/kogod/graduate/MS-ANLT.cfm
+American University,Online MS Analytics,M,T,F,US,DC,Washington,Kogod School of Business,http://onlinebusiness.american.edu/analytics/
+George Washington University,Master of Science in Data Science,M,F,T,US,DC,Washington,Columbian College of Arts and Sciences,http://datasci.columbian.gwu.edu/why-data-science-gw
+Georgetown University,Master in Data Science for Public Policy (MDSPP),M,F,T,US,DC,Washington,McCourt School of Public Policy,https://mccourt.georgetown.edu/master-in-data-science-for-public-policy
+Georgetown University,"Master of Science in Analytics, Concentration in Data Sciences (MS-DS)",M,F,T,US,DC,Washington,Graduate School of Arts & Sciences,http://gradanalytics.georgetown.edu/
+The George Washington University,Business Analytics,M,F,T,US,DC,Washington,Business,http://business.gwu.edu/msba
+University of the Potomac,MS in Data Analytics,M,F,T,US,DC,Washington,Business,https://potomac.edu/degree-programs/graduate/master-science-data-analytics-degree/
+New College of Florida,Master of Data Science,M,F,T,US,FL,Sarasota,Interdisciplinary,https://www.ncf.edu/academics/graduate-program/data-science/
+Florida International University,Master of Science in Health Informatics and Management Systems,M,F,T,US,FL,Miami,Chapman Graduate School of Business,http://business.fiu.edu/fiubusiness/mshims.cfm
+Florida Polytechnic University,Big Data Analytics,B,F,T,US,FL,Lakeland,College of Innovation & Technology,https://floridapolytechnic.org/academics/advanced-technology/big-data-analytics/
+Full Sail University,Master of Science in Business Intelligence,M,T,F,US,FL,Winter Park,Full Sail University,http://www.fullsail.edu/degrees/online/business-intelligence-masters
+Nova Southeastern University,Master of Science in Biomedical Informatics,M,T,T,US,FL,Fort Lauderdale,College of Osteopathic Medicine,http://medicine.nova.edu/msbi/curriculum.html
+Nova Southeastern University,Graduate Certificate in Business Intelligence / Analytics,C,T,F,US,FL,Fort Lauderdale,Graduate School of Computer and Information Sciences,http://www.scis.nova.edu/masters/certificate_bi.html
+Pasco-Hernando State College,Healthcare Informatics Specialist Certificate,C,T,F,US,FL,New Port Richey,Health and Information Technology,http://phsc.edu/program/healthcare-informatics-specialist-certificate
+University of Central Florida,M.S.  in Statistical Computing Data Mining Track,M,F,T,US,FL,Orlando,Department of Statistics,http://dms.stat.ucf.edu/
+University of Central Florida,Master of Science in Health Care Informatics,M,F,T,US,FL,Orlando,Department of Health Management & Informatics,http://www.ce.ucf.edu/Program/2626/Master-Of-Science-In-Health-Care-Informatics/
+University of Central Florida,Professional Science Master's Program in Health Care Informatics,M,F,T,US,FL,Orlando,Department of Health Management and Informatics,http://www.graduatecatalog.ucf.edu/programs/Program.aspx?ID=5852
+University of Florida,Master of Science in Information Systems and Operations Management (Business Intelligence & Analytics specialization),M,F,T,US,FL,Gainesville,Warrington College of Business Administration,http://warrington.ufl.edu/graduate/academics/ms-isom/
+University of Miami,Master of Science in Business Analytics,M,F,T,US,FL,Coral Gables,University of Miami School of Business,http://www.bus.miami.edu/graduate-programs/specialized-masters/analytics/index.html
+University of South Florida Sarasota-Manatee,Business Analytics Certificate,C,T,F,US,FL,Sarasota,College of Business,http://usfsm.edu/catalog/graduate/college-of-business-degree-programs/college-of-business-certificate-programs/business-analytics-certificate/
+University of South Florida-Main Campus,Analytics and Business Intelligence Certificate,C,T,F,US,FL,Tampa,Muma College of Business,http://www.usf.edu/innovative-education/programs/graduate-certificates/analytics-and-business-intelligence.aspx
+University of South Florida-Main Campus,MS in Health Informatics Online,M,F,T,US,FL,Tampa,Morsani College of Medicine,http://www.usfhealthonline.com/programs/masters-degree/ms-health-informatics/
+Georgia Southern University,M.S. - Computer Science with concentration in Data and Knowledge Systems,M,T,F,US,GA,Statesboro,Department of Computer Sciences,http://ceit.georgiasouthern.edu/cs/degrees/mscs/
+Georgia State University,Master of Science in Analytics,M,F,T,US,GA,Atlanta,Robinson College of Business,http://specialized.robinson.gsu.edu/msa/
+Georgia Tech,MS in Analytics,M,T,T,US,GA,Atlanta,"Colleges of Business, Computing, and Engineering",http://www.analytics.gatech.edu/
+Georgia Tech,MS - Computer Science with specialization in machine learning,M,F,T,US,GA,Atlanta,College of Computing,http://www.cc.gatech.edu/future/masters/mscs/program
+Kennesaw State University,Analytics and Data Science,D,F,T,US,GA,Kennesaw,Department of Statistics and Analytical Sciences,https://datascience.kennesaw.edu/
+Kennesaw State University,Online Certificate in Applied Statistics,C,T,F,US,GA,Kennesaw,Department of Statistics and Analytical Sciences,https://analytics.kennesaw.edu/academics/certificate/appl-stat/index.html
+Kennesaw State University,Master of Science in Applied Statistics,M,F,T,US,GA,Kennesaw,Department of Mathematics and Statistics,https://analytics.kennesaw.edu/academics/grad/MSAS/index.html
+Mercer University,M.S. In Business Analytics,M,F,T,US,GA,Macon,Stetson School of Business and Economics,http://business.mercer.edu/business-analytics/
+University of Georgia,MBA with concentration in Business Analytics,M,T,T,US,GA,Athens,Terry College of Business,http://www.terry.uga.edu/mba/fulltime/concentrations/business-analytics
+Chaminade University,Data Science,B,F,T,US,HI,Honolulu,,https://naturalsciences.chaminade.edu/undergraduate/data-science-analytics-and-visualization/
+Hawaii Pacific University,Business Analytics,C,T,T,US,HI,Honolulu,,https://www.hpu.edu/registrar/academic-catalog/view-grad.html#?p=CERT-BA
+University of Hawaii Hilo,Data Science,C,F,T,US,HI,Hilo,,https://hilo.hawaii.edu/catalog/data-science-cert
+Loras College,MBA - Business Analytics,M,T,F,US,IA,Dubuque,Loras College,http://www.loras.edu/Academics/MBA-Business-Analytics.aspx
+Northwestern College,Analytics Certificate,C,F,T,US,IA,Orange City,Adult and Graduate Studies,http://online.nwciowa.edu/analytics
+Luther College,Data Science,B,F,T,US,IA,Decorah,Computer Science,https://www.luther.edu/computer-science/data-science-major/
+The University of Iowa,Business Analytics,B,F,T,US,IA,Iowa City,Business,http://tippie.uiowa.edu/management-sciences/undergraduate.cfm
+The University of Iowa,Business Analytics Certificate Program,C,F,T,US,IA,Cedar Rapids,Business,http://tippie.uiowa.edu/business-analytics
+The University of Iowa,Business Analytics Graduate Program,M,F,T,US,IA,Cedar Rapids,Business,http://tippie.uiowa.edu/business-analytics
+Brigham Young University - Idaho,Data Science,A,F,T,US,ID,Rexburg,College of Physical Science and Engineering,http://www.byui.edu/mathematics
+Brigham Young University - Idaho,Data Science,B,F,T,US,ID,Rexburg,College of Physical Science and Engineering,http://www.byui.edu/mathematics
+Brigham Young University - Idaho,Data Science,C,F,T,US,ID,Rexburg,College of Physical Science and Engineering,http://www.byui.edu/mathematics
+Aurora University,Master of Science in Digital Marketing and Analytics,M,F,T,US,IL,Aurora,Dunham School of Business,http://www.aurora.edu/academics/graduate/marketing/index.html
+Benedictine University,Master of Science in Business Analytics,M,F,T,US,IL,Lisle,College of Business,http://www.ben.edu/college-of-business/graduate/master-of-science-in-business-analytics.cfm
+DePaul University,Data Science,M,F,T,US,IL,Chicago,College of Computing and Digital Media,http://www.cdm.depaul.edu/academics/Pages/MS-In-Predictive-Analytics.aspx
+DePaul University,Information Systems (MS) - Business Intelligence Concentration,M,T,F,US,IL,Chicago,College of Computing and Digital Media,http://www.depaul.edu/university-catalog/degree-requirements/graduate/cdm/information-systems-ms/concentrations/Pages/business-intelligence.aspx
+Elmhurst College,M.S. in Data Science,M,F,T,US,IL,Elmhurst,Elmhurst College Online Center,http://public.elmhurst.edu/data_science
+Elmhurst College,Graduate Certificate in Data Science,C,F,T,US,IL,Elmhurst,Elmhurst College Online Center,http://public.elmhurst.edu/data_science/227880201.html
+Illinois Institute of Technology,MS - CS specialization in Data Analytics (with co-terminal BS/MS option),M,T,F,US,IL,Chicago,College of Science,http://science.iit.edu/programs/graduate/master-computer-science-specialization-data-analytics
+Illinois Institute of Technology,Master of Data Science,M,T,T,US,IL,Chicago,College of Science,http://science.iit.edu/programs/graduate/master-data-science
+Illinois Institute of Technology,Data Analytics,M,F,T,US,IL,Chicago,Computer Science,http://science.iit.edu/programs/graduate/master-computer-science-specialization-data-analytics
+Lewis University,Data Science,M,T,T,US,IL,Romeoville,Computer Science,http://www.lewisu.edu/academics/data-science/index.htm
+Lewis University,"Business Analytics, M.S.",M,T,F,US,IL,Romeoville,College of Business,https://www.lewisu.edu/academics/business-analytics/index.htm
+Loyola University Chicago,M.S. in Applied Statistics,M,F,T,US,IL,Chicago,Mathematics and Statistics,http://www.luc.edu/math/msappliedstat.shtml
+Loyola University Chicago,Graduate Certificate in Business Intelligence and Data Warehousing,C,F,T,US,IL,Chicago,Quinlan School of Business,http://www.luc.edu/quinlan/mba/academics/certificates-data-warehousing/
+Northwestern University,Certificate in Analytics and Business Intelligence for IT Professionals,C,T,T,US,IL,Evanston,School of Professional Studies,http://sps.northwestern.edu/program-areas/advanced-graduate/analytics-business-intelligence/index.php
+Northwestern University,Master of Science in Information Systems with Concentration in Analytics and Business Intelligence,M,F,T,US,IL,Evanston,School of Professional Studies,http://sps.northwestern.edu/program-areas/graduate/information-systems/index.php
+Northwestern University,Certificate in Predictive Business Analytics,C,F,T,US,IL,Evanston,Bridge School of Management,http://sps.northwestern.edu/program-areas/professional-development/bridge-school/index.php
+Northwestern University,Master of Science in Analytics,M,F,T,US,IL,Evanston,McCormick School of Engineering,http://www.analytics.northwestern.edu/
+Northwestern University,Master of Science in Predictive Analytics Online,M,T,F,US,IL,Evanston,School of Continuing Studies,http://sps.northwestern.edu/program-areas/graduate/predictive-analytics/index.php
+University of Chicago,Master of Science in Computational Analysis & Public Policy (CAPP),M,F,T,US,IL,Chicago,Harris School of Public Policy & Computer Science Department,http://capp.sites.uchicago.edu/
+University of Chicago,Master of Science in Analytics,M,F,T,US,IL,Chicago,Graham School of Continuing Liberal and Professional Studies,http://grahamschool.uchicago.edu/credit/master-science-analytics/index
+University of Illinois at Chicago,Health Informatics (IBHE-Approved Certificate),C,T,F,US,IL,Chicago,College of Applied Health Sciences,http://catalog.uic.edu/gcat/colleges-schools/applied-health-sciences/him-cert/
+University of Illinois at Chicago,Master of Science in Health Informatics Research Track,M,T,F,US,IL,Chicago,Department of Biomedical and Health Information Sciences,http://healthinformatics.uic.edu/
+University of Illinois at Springfield,Graduate Certificate in Business Intelligence,C,F,T,US,IL,Springfield,Department of Management Information Systems,http://mis.uis.edu/BIcertificate.html
+University of Illinois at Urbana-Champaign,Master of Science in Statistics: Analytics Concentration,M,F,T,US,IL,Champaign,Department of Statistics,http://www.stat.illinois.edu/degrees/msanalytics.shtml
+University of Illinois at Urbana-Champaign,Master of Computer Science in Data Science,M,T,F,US,IL,Champaign,Department of Computer Science,https://online.illinois.edu/mcs-ds
+University of St Francis,Graduate Certificate in Business Analytics,C,F,T,US,IL,Joliet,College of Business and Health Administration,http://www.stfrancis.edu/academics/college-of-business/graduate-certificate-business-analytics/
+University of St Francis,MBA with a concentration in Business Analytics,M,T,F,US,IL,Joliet,College of Business and Health Administration,http://www.stfrancis.edu/academics/master-of-business-administration/#.VCQeLEu0Zg0
+Indiana University Bloomington,MBA (Major in Business Analytics),M,T,F,US,IN,Bloomington,Kelley School of Business,http://kelley.iu.edu/mba/academics/MajorsMinors/page38907.html
+Indiana University Bloomington,Online MS in Business Analytics,M,F,T,US,IN,Bloomington,Kelley School of Business,http://kelley.iu.edu/onlineMBA/Online/MSBA/page43444.cfm
+Indiana University Bloomington,Business Analytics Certificate Program,C,F,T,US,IN,Bloomington,Kelley School of Business: Department of Operations and Decision Technologi,http://www.kelley.iu.edu/ODT/AboutUs/DecisionSciences/page11147.html
+Indiana University Bloomington,Master of Science in Data Science,M,F,T,US,IN,Bloomington,School of Informatics and Computing,http://www.soic.indiana.edu/graduate/degrees/data-science/ms-data-science/index.html
+Indiana University Bloomington,Online Certificate in Data Science (Graduate),C,F,T,US,IN,Bloomington,School of Informatics and Computing,http://www.soic.indiana.edu/graduate/programs/data-science/index.shtml
+Indiana University Bloomington,Informatics,D,F,T,US,IN,Bloomington,School of Informatics,http://www.soic.indiana.edu/graduate/degrees/informatics/index.html
+Indiana University-Purdue University-Indianapolis,M.S. in Mathematics: Applied Statistics,M,T,F,US,IN,Indianapolis,Department of Mathematical Sciences,http://math.iupui.edu/graduate/degrees/ms/stats
+Indiana University-Purdue University-Indianapolis,Master of Science in Bioinformatics,M,T,F,US,IN,Indianapolis,Department of BioHealth Informatics,http://soic.iupui.edu/biohealth/graduate/bioinformatics-masters/
+Purdue University-Main Campus,Business Analytics and Information Management,M,F,T,US,IN,West Lafayette,Krannert School of Management,https://krannert.purdue.edu/masters/programs/business-analytics-and-information-management/
+Purdue University-Main Campus,MBA Specialization in Business Analytics,M,F,T,US,IN,West Lafayette,Krannert School of Management,http://www.krannert.purdue.edu/masters/programs/mba/option-areas/business-analytics/home.asp
+Purdue University-Main Campus,Certificate in Applied Statistics,C,F,T,US,IN,West Lafayette,Department of Statistics,https://engineering.purdue.edu/ProEd/credit/applied_statistics
+Saint Mary's College,Master of Science in Data Science,M,T,T,US,IN,Notre Dame,Department of Mathematics and Computer Science,https://grad.saintmarys.edu/academic-programs/ms-data-science
+University of Notre Dame,Master of Science in Applied and Computational Mathematics and Statistics with a specialty in Applied Statistics,M,F,T,US,IN,Notre Dame,Department of Applied and Computational Mathematics and Statistics (ACMS),http://acms.nd.edu/graduate-programs/professional-master-s-programs/master-of-science-in-applied-statistics/
+University of Notre Dame,Master of Science in Business Analytics,M,T,F,US,IN,Notre Dame,Mendoza College of Business,https://mendoza.nd.edu/programs/specialized-masters/ms-in-business-analytics/
+University of Notre Dame,Master of Science in Data Science,M,T,F,US,IN,Notre Dame,Applied and Computational Mathematics and Statistics,http://datascience.nd.edu/
+University of Evansville,Statistics and Data Science,B,F,T,US,IN,Evansville,Mathematics,https://www.evansville.edu/majors/math/datascience.cfm
+Indiana University-Purdue University Indianapolis,BS in Applied Data and Information Science,B,F,T,US,IN,Indianapolis,School of Informatics and Computing,https://soic.iupui.edu/undergraduate/degrees/data-info-science/
+Indian University-Purdue University Indianapolis,Master of Science in Applied Data Science,M,F,T,US,IN,Indianapolis,School of Informatics and Computing,https://soic.iupui.edu/graduate/degrees/data-science/data-science-masters/
+Valparaiso University,Bachelors of Science in Data Science,B,F,T,US,IN,Valparaiso,Interdisciplinary,http://www.valpo.edu/mathematics-statistics/academics/degree-programs/b-s-in-data-science/
+Valparaiso University,Bachelors of Arts in Business Analytics,B,F,T,US,IN,Valparaiso,College of Business,http://www.valpo.edu/college-of-business/academics/major-programs/business-analytics/
+Valparaiso University,Masters of Science in Analytics and Modeling,M,F,T,US,IN,Valparaiso,Graduate School,http://www.valpo.edu/analytics-modeling
+University of Kansas,Business Analytics,C,F,T,US,KS,Lawrence,School of Business,http://business.ku.edu/business-analytics
+University of Kentucky,Master of Data Science,B,F,T,US,KY,Lexington,Department of Computer Science,https://www.engr.uky.edu/data-science
+Northern Kentucky University,Data Science,B,F,T,US,KY,Highland Heights,Computer Science,http://informatics.nku.edu/content/informatics/departments/computer-science/programs/datascience.html
+University of Louisville,Certificate in Data Mining,C,F,T,US,KY,Louisville,Department of Computer Engineering & Computer Science,http://louisville.edu/speed/computer/graduate-studies/dataMining
+Louisiana State University,Master of Science in Analytics,M,F,T,US,LA,Baton Rouge,Department of Information Systems & Decision Sciences,http://businessanalytics.lsu.edu/
+Babson College,MBA with Business Analytics Concentration,M,F,T,US,MA,Wellesley,F.W. Olin Graduate School of Business,http://www.babson.edu/academics/graduate/mba/concentrations/pages/business-analytics.aspx
+Becker College,Data Science,B,F,T,US,MA,Worcester,Data Science,http://www.becker.edu/academics/departments-programs/data-science/
+Bentley University,Master of Science In Marketing Analytics,M,F,T,US,MA,Waltham,Graduate School of Business,http://www.bentley.edu/graduate/academics/ms-programs/marketing-analytics
+Bentley University,Master of Business Analytics,M,F,T,US,MA,Waltham,Graduate School of Business,http://www.bentley.edu/graduate/degree-programs/ms-programs/business-analytics
+Bentley University,Graduate Certificate in Business Analytics,C,F,T,US,MA,Waltham,Graduate School of Business,http://www.bentley.edu/graduate/special-programs/graduate-certificate-programs
+Brandeis University,Master of Arts in Computational Linguistics,M,F,T,US,MA,Waltham,Mitchom School of Computer Science,http://www.brandeis.edu/gsas/programs/comp_ling.html
+Brandeis University,M.S. in Strategic Analytics,M,F,T,US,MA,Waltham,Graduate Professional Studies,https://www.brandeis.edu/gps/future-students/learn-about-our-programs/strategic-analytics.html
+Harvard University,Data Science Certificate,C,T,F,US,MA,Cambridge,Extension School,http://www.extension.harvard.edu/professional-certificates/data-science-certificate
+Harvard University,Master of Science in Computational Biology and Quantitative Genetics,M,F,T,US,MA,Cambridge,School of Public Health,http://www.hsph.harvard.edu/sm-computational-biology/
+Harvard University,Master of Science in Computational Science and Engineering,M,F,T,US,MA,Cambridge,School of Engineering and Applied Sciences,http://www.seas.harvard.edu/computational-science-and-engineering/master-science-cse
+Northeastern University,Master of Professional Studies in Analytics,M,F,T,US,MA,Boston,College of Professional Studies,https://www.northeastern.edu/graduate/program/professional-masters-in-analytics-14859/
+Northeastern University,Master of Science in Urban Informatics,M,T,T,US,MA,Boston,Interdisciplinary,https://www.northeastern.edu/graduate/program/master-of-science-in-urban-informatics-boston-14300/
+Northeastern University,Master of Science in Data Science,M,F,T,US,MA,Boston,Interdisciplinary,https://www.northeastern.edu/graduate/program/master-of-science-in-data-science-5256/
+Northeastern University,Master of Professional Studies in Informatics,M,T,T,US,MA,Boston,College of Professional Studies,https://www.northeastern.edu/graduate/program/master-of-professional-studies-in-informatics-225/
+Northeastern University,Master of Science in Health Informatics,M,T,T,US,MA,Boston,College of Computer and Information Sciences,https://www.northeastern.edu/graduate/program/master-of-science-in-health-informatics-boston-5247/
+Northeastern University,Graduate Certificate in Data Analytics,C,T,T,US,MA,Boston,College of Computer and Information Sciences,https://www.northeastern.edu/graduate/program/graduate-certificate-in-data-analytics-boston-14423/
+Northeastern University,Graduate Certificate in Game Analytics,C,F,T,US,MA,Boston,"College of Arts, Media, and Design",https://www.northeastern.edu/graduate/program/graduate-certificate-in-game-analytics-5224/
+Northeastern University,Master of Science in Health Data Analytics,M,F,T,US,MA,Boston,Interdisciplinary,https://www.northeastern.edu/graduate/program/master-of-science-in-health-data-analytics-5257/
+Northeastern University,Master of Science in Business Analytics,M,T,F,US,MA,Boston,Interdisciplinary,https://www.northeastern.edu/graduate/program/master-of-science-in-business-analytics-14873/
+Northeastern University,Graduate Certificate in Learning Analytics,C,T,T,US,WA,Seattle,College of Professional Studies,https://www.northeastern.edu/graduate/program/graduate-certificate-in-learning-analytics-298/
+Northeastern University,Graduate Certificate in Urban Analytics,C,F,T,US,MA,Boston,College of Professional Studies,https://www.northeastern.edu/graduate/program/graduate-certificate-in-urban-informatics-14299/
+University of Massachusetts Amherst,MS with Data Science Concentration,M,F,T,US,MA,Amherst,College of Information and Computer Sciences,https://ds.cs.umass.edu/proposed-masters-concentration-data-science
+University of Massachusetts Amherst,Certificate in Data Science,C,F,T,US,MA,Amherst,College of Information and Computer Sciences,https://ds.cs.umass.edu/academics/certificate-data-science
+University of Massachusetts Dartmouth,Masters in Data Science,M,F,T,US,MA,Dartmouth,College of Engineering,https://www.umassd.edu/programs/data-science-ms/
+Worcester Polytechnic Institute,Data Science,D,F,T,US,MA,Worcester,Data Science,http://www.wpi.edu/academics/datascience/phd-program.html
+Worcester Polytechnic Institute,Data Science,B,F,T,US,MA,Worcester,Data Science,http://www.wpi.edu/academics/datascience/bsms-program.html
+Worcester Polytechnic Institute,Graduate Certificate in Data Science,C,F,T,US,MA,Worcester,Data Science,http://www.wpi.edu/academics/datascience/certificate-program.html
+Worcester Polytechnic Institute,Master of Science in Data Science,M,F,T,US,MA,Worcester,Data Science,http://www.wpi.edu/academics/datascience/degree-requirements.html
+Smith College,Statistical & Data Sciences,B,F,T,US,MA,Northampton,Statistical & Data Sciences,http://smith.edu/statistics/
+Boston University,Master of Science in Computer Science (Data Analytics Concentration),M,T,F,US,MA,Boston,MET Computer Science Department,http://www.bu.edu/csmet/mscs/
+Boston University,Master of Science in Computer Information Systems Online (Data Analytics Concentration),M,T,F,US,MA,Boston,MET Computer Science Department,http://cisonline.bu.edu/
+Boston University,Graduate Certificate in Data Analytics,C,T,T,US,MA,Boston,MET Computer Science Department,http://www.bu.edu/csmet/da/
+Boston University,Graduate Certificate in Database Management and Business Intelligence,C,T,T,US,MA,Boston,MET Computer Science Department,http://www.bu.edu/csmet/academic-programs/dmbi/
+Johns Hopkins University,Bioinformatics,M,F,T,US,MD,Baltimore,,http://advanced.jhu.edu/academic/biotechnology/ms-in-bioinformatics/
+Johns Hopkins University,Master of Science in Geographic Information Systems,M,T,T,US,MD,Baltimore,Krieger School of Arts & Sciences,http://advanced.jhu.edu/academics/graduate-degree-programs/geographic-information-systems/
+Johns Hopkins University,Master of Science in Information Systems,M,F,T,US,MD,Baltimore,Carey Business School,http://carey.jhu.edu/academics/master-of-science/ms-in-information-systems/
+Notre Dame of Maryland University,Master of Science in Analytics in Knowledge Management,M,F,T,US,MD,Baltimore,College of Arts and Sciences,http://catalog.ndm.edu/graduate/artsandsciences/knowledgemanagementprogram/
+University of Maryland-Baltimore County,Master of Science in Information Systems,M,T,F,US,MD,Baltimore,Department of Information Science,http://onlinems.umbc.edu/
+University of Maryland-College Park,Master of Information Management,M,F,T,US,MD,College Park,College of Information Studies,http://ischool.umd.edu/mim
+University of Maryland-College Park,Online MBA - Specialization in Information Systems & Business Analytics,M,F,T,US,MD,College Park,Robert H. Smith School of Business,http://onlinemba.umd.edu/
+University of Maryland-College Park,"MS in Business, Marketing Analytics",M,T,F,US,MD,College Park,Robert H. Smith School of Business,http://www.rhsmith.umd.edu/ms/analytics/
+University of Maryland-University College,Master of Science in Data Analytics,M,F,T,US,MD,Adelphi,University of Maryland University College Graduate School,http://www.umuc.edu/academic-programs/masters-degrees/data-analytics.cfm
+Baker College,MBA in Business Intelligence,M,F,T,US,MI,Allen Park,Baker College,http://www.baker.edu/programs-degrees/business-intelligence-master-ba/
+Central Michigan University,Data Mining,C,F,T,US,MI,Mount Pleasant,Mathematics,https://www.cmich.edu/colleges/cgs/landing_pages/Pages/Graduate-Certificate-Data-Mining.aspx
+Central Michigan University,Applied Statistics and Analytics,M,F,T,US,MI,Mount Pleasant,Mathematics,https://www.cmich.edu/colleges/cst/math/Pages/Master-of-Science-in-Applied-Statistics-and-Analytics.aspx
+Davenport University,Master of Science in Health Informatics and Information Management,M,T,F,US,MI,Grand Rapids,College of Health Professions,http://www.davenport.edu/college-health-professions/programs-and-degrees/master-science-informatics-and-information-
+Eastern Michigan University,Master of Arts in Applied Statistics,M,T,F,US,MI,Ypsilanti,Department of Mathematics,http://catalog.emich.edu/preview_program.php?catoid=12&poid=6396
+Eastern Michigan University,Enterprise Business Intelligence specialization in the Master of Business Administration (MBA),M,F,T,US,MI,Ypsilanti,College of Business; Computer Information Systems Department,http://www.emich.edu/cob/departments_centers/computer_information_systems.php
+Grand Valley State University,Master of Science in Biostatistics,M,T,F,US,MI,Allendale,College of Liberal Arts and Sciences,http://catalog.gvsu.edu/preview_program.php?catoid=38&poid=5264&hl=%22master+of+science+in+biostatistics%22&returnto=search
+Michigan State University,M.S. - Business Analytics,M,F,T,US,MI,East Lansing,Broad College of Business,http://broad.msu.edu/businessanalytics/
+Michigan State University,Master of Science in Applied Statistics,M,T,F,US,MI,East Lansing,Department of Statistics and Probability (College of Natural Sciences),https://www.reg.msu.edu/academicprograms/ProgramDetail.asp?Program=3871
+Michigan Technological University,Master of Science Degree in Integrated Geospatial Technology,M,T,T,US,MI,Houghton,School of Technology,http://www.mtu.edu/gradschool/programs/degrees/geospatial/
+Oakland University,MS in Applied Statistics,M,T,F,US,MI,Rochester Hills,Department of Mathematics and Statistics,http://www.oakland.edu/?id=7773&sid=229
+Oakland University,Master of Science in Information Technology Management in Business Analytics,M,F,T,US,MI,Rochester Hills,School of Business Administration,http://www.oakland.edu/MSITM-BA
+University of Michigan-Ann Arbor,Graduate Data Science (DS) Certificate Program,C,T,F,US,MI,Ann Arbor,Trans-Disciplinary,http://midas.umich.edu/certificate/
+University of Michigan-Ann Arbor,Data Science,B,F,T,US,MI,Ann Arbor,EECS,https://www.eecs.umich.edu/eecs/undergraduate/data-science/
+University of Michigan-Dearborn,Master of Science in Business Analytics,M,F,T,US,MI,Dearborn,College of Business,http://umdearborn.edu/cob/ms-business-analytics/
+Capella University,Business Intelligence Specialization Post-Baccalaureate Certificate,C,F,T,US,MN,Minneapolis,School of Business and Technology,http://www.capella.edu/online-degrees/certificate-business-intelligence/accreditations
+Capella University,MBA in Business Intelligence,M,F,T,US,MN,Minneapolis,School of Business & Technology,http://www.capella.edu/online-degrees/mba-business-intelligence/
+Capella University,MS in Analytics,M,T,F,US,MN,Minneapolis,School of Business & Technology,http://www.capella.edu/online-degrees/masters-analytics/
+The College of Saint Scholastica,M.S. Health Informatics,M,T,F,US,MN,Duluth,Health Informatics Program,http://www.css.edu/Graduate/Masters-Doctoral-and-Professional-Programs/Areas-of-Study/MS-Health-Informatics/Curriculum.html?ss=print
+University of Minnesota,Business Analytics,M,F,T,US,MN,Minneapolis,Carlson School of Management,http://carlsonschool.umn.edu/degrees/master-science-in-business-analytics
+University of Minnesota-Duluth,Retail Marketing Analytics,B,F,T,US,MN,Duluth,Labovitz School of Business and Economics,https://lsbe.d.umn.edu/mktganalytics/program.php
+University of St. Thomas,M.S. in Data Science,M,F,T,US,MN,Saint Paul,Graduate Programs in Software,http://www.stthomas.edu/gradsoftware/programs/msdatascience/default.html
+St. Catherine University,Health Informatics,M,T,F,US,UT,St. Paul,,https://www.stkate.edu/academics/graduate-degrees/academic-programs/health-informatics-mhi
+Winona State University,Data Science,B,F,T,US,MN,Winona,Department of Mathematics and Statistics,http://www.winona.edu/data-science/
+Grantham University,Master of Science in Business Intelligence,M,T,F,US,MO,Kansas City,Business,http://rmi.grantham.edu/programs/master-of-science-in-business-intelligence
+Missouri University of Science and Technology,Graduate Certificate in Business Analytics and Data Science,C,T,F,US,MO,Rolla,Department of Business and Information Technology,http://dce.mst.edu/credit/certificates/businessanalyticsanddatascience/
+Rockhurst University,Data Science and Business Analytics Certificate,C,T,T,US,MO,Kansas City,Helzburg School of Management,http://www.rockhurst.edu/media/filer_private/2013/12/06/helzberg_ds_certificates_w-course_descriptions.pdf
+Rockhurst University,Business Intelligence and Analytics,M,F,T,US,MO,Kansas City,Helzburg School of Management,http://www.rockhurst.edu/helzberg-school-of-management/msbia/
+Saint Louis University,Health Data Science,M,T,F,US,MO,Saint Louis,Center For Outcomes Research,http://www.slu.edu/medicine/slucor/education-and-training/ms-in-health-data-science
+Saint Louis University-Main Campus,Applied Analytics Master's Degree,M,T,F,US,MO,Saint Louis,School for Professional Studies,http://www.slu.edu/school-for-professional-studies-home/majors-and-programs/masters-degree-programs/ms-in-applied-analytics
+Maryville University, M.S. In Business Data Analytics, M,F,T,US,MO,St. Louis,John E. Simon School of Business,http://online.maryville.edu/online-master-of-science-in-business-data-analytics/
+University of Missouri-St Louis,Graduate Certificate in Business Intelligence,C,F,T,US,MO,Saint Louis,Information Systems Department,http://mis.umsl.edu/M.S.%20in%20I.S./BICertificate.html
+Jackson State University,Computational and Data-Enabled Science and Engineering,D,F,T,US,MS,Jackson,,http://www.jsums.edu/gip/cdese/
+University of Montana,Certificate in Big Data Analytics,C,F,T,US,MT,Missoula,Data Science,http://www.umt.edu/datascience/study-big-data.php
+Duke University,Master in Interdisciplinary Data Science,M,F,T,US,NC,Durham,Social Science Research Institute,https://datascience.duke.edu
+Elon University,Information Science,B,F,T,US,NC,Elon,Computing Sciences,http://www.elon.edu/e-web/academics/elon_college/computing_sciences/curriculum/bsis.xhtml
+North Carolina State University at Raleigh,Master of Science in Analytics,M,F,T,US,NC,Raleigh,Institute for Advanced Analytics,http://analytics.ncsu.edu/
+University of North Carolina at Chapel Hill,Graduate Certificate in Public Health Informatics,C,F,T,US,NC,Chapel Hill,Gillings School of Global Public Health and School of Information and Libra,http://sph.unc.edu/hpm/hpm-degrees-and-certificates/hpm-phi-overview/
+University of North Carolina at Charlotte,Professional Science Master's (PSM) in Data Science and Business Analytics (DSBA),M,F,T,US,NC,Charlotte,The Graduate School,http://analytics.uncc.edu/
+University of North Carolina at Charlotte,Graduate Certificate in Data Science and Business Analytics,C,F,T,US,NC,Charlotte,College of Computing and Informatics and the Belk College of Business,http://analytics.uncc.edu/graduate-certificate
+University of North Carolina at Charlotte,Graduate Certificate in Health Informatics,C,F,T,US,NC,Charlotte,"College of Computing and Informatics, College of Health and Human Serv",http://hi.uncc.edu/graduate-certificate
+University of North Carolina at Charlotte,M.S. in Mathematics with Concentration in Applied Statistics,M,F,T,US,NC,Charlotte,Department of Mathematics and Statistics,http://math.uncc.edu/graduate-program/master-science-degree-concentration-applied-statistics
+University of North Carolina at Charlotte,Computing and Information Systems,D,F,T,US,NC,Charlotte,Computing and Informatics,https://cci.uncc.edu/academic-programs/phd
+University of North Carolina at Greensboro,Graduate Certificate in Business Analytics,C,F,T,US,NC,Greensboro,UNCG Bryan School of Business and Economics,http://bae.uncg.edu/isscm/graduate/certificates/graduate-certificate-in-business-analytics-2/
+Wake forest University,Masters of Science in Business Analytics,M,F,T,US,NC,Winston-Salem,School of Business,https://business.wfu.edu/ms-analytics/
+Bellevue University,Master of Science-Business Analytics,M,T,F,US,NE,Bellevue,College of Science and Technology,http://www.bellevue.edu/degrees/graduate/business-analytics-ms/major-requirements.aspx
+Bellevue University,Master of Professional Science in Technology Innovation with Focus in Bioinformatics,M,F,T,US,NE,Bellevue,College of Science and Technology,http://www.bellevue.edu/degrees/graduate/innovation-entrepreneurship-mps/major-requirements.aspx
+Creighton University,Master of Science in Business Intelligence and Analytics (MS-BIA),M,F,T,US,NE,Omaha,Heider College of Business,http://business.creighton.edu/graduate/graduate-programs/master-science-business-intelligence-and-analytics-ms-bia
+Creighton University,Master of Science in Data Science,M,F,T,US,NE,Omaha,College of Professional Studies,https://academics.creighton.edu/program/data-science-master-science-ms
+Nebraska College of Technical Agriculture,Business Analytics Graduate Certificate,C,F,T,US,NE,Curtis,College of Business Administration,http://news.unl.edu/newsrooms/unltoday/article/cba-to-offer-business-analytics-program/
+University of Nebraska at Omaha,Data Science Concentration,B,F,T,US,NE,Omaha,Mathematics,http://www.unomaha.edu/college-of-arts-and-sciences/mathematics/academics/undergraduate.php#data
+University of Nebraska at Omaha,Data Science Concentration,M,F,T,US,NE,Omaha,Mathematics,http://www.unomaha.edu/college-of-arts-and-sciences/mathematics/community-engagement/data-science.php
+Southern New Hampshire University,Master of Science in Data Analytics,M,T,F,US,NH,Manchester,Graduate,http://www.snhu.edu/online-degrees/graduate-degrees/data-analytics-ms-online/careers.asp
+Southern New Hampshire University,MS in Information Technology - Healthcare Informatics,M,T,F,US,NH,Manchester,School for Professional Studies,http://www.snhu.edu/online-degrees/graduate-degrees/information-technology-MS-online/health-Informatics.asp
+Southern New Hampshire University,MBA in Business Intelligence,M,T,F,US,NH,Manchester,,http://www.snhu.edu/online-degrees/graduate-degrees/MBA-online/business-intelligence-curriculum.asp
+Southern New Hampshire University,Data Analytics,B,T,F,US,NH,Manchester,,http://www.snhu.edu/online-degrees/undergraduate-degrees/data-analytics-bs-online.asp
+University of New Hampshire,Analytics & Data Science,B,F,T,US,NH,Durham,Applied Engineering & Sciences,https://manchester.unh.edu/academics/degree-programs/analytics
+University of New Hampshire,Analytics & Data Science,M,F,T,US,NH,Durham,Graduate School,https://www.unh.edu/analytics
+University of New Hampshire,Analytics,C,F,T,US,NH,Durham,Graduate School,https://gradschool.unh.edu/analytics/program/certificate/analytics
+University of New Hampshire,Data Science,C,T,F,US,NH,Durham,Graduate School,https://gradschool.unh.edu/analytics/program/certificate/data-science
+Sollers College,MS in Data Science,M,F,T,US,NJ,Edison,,https://www.sollers.edu/information-technology/master-of-science-in-data-science/
+Drew University,MS in Data Analytics,M,F,T,US,NJ,Madison,,https://www.drew.edu/caspersen/data-analytics/
+New Jersey Institute of Technology,MS in Applied Statistics,M,T,F,US,NJ,Newark,Department of Mathematical Sciences,http://math.njit.edu/academics/graduate/ms-appliedstatistics/index.php
+New Jersey Institute of Technology,Graduate Certificate in Data Mining,C,T,F,US,NJ,Newark,Department of Computer Science,http://online.njit.edu/programs/certs/datamining-cert.php
+Rutgers University,Online Master of Information,M,T,F,US,NJ,Camden,School of Communication and Information,http://online.rutgers.edu/master-library-info/
+Rutgers University,Master of Business And Science Degree in Analytics - Discovery Informatics & Data Sciences,M,F,T,US,NJ,Camden,Division of Continuous Education and Outreach,http://psm.rutgers.edu/programs/analytics-data-sciences
+Rutgers University,Post MBA Certificate in Analytics and Information Management,C,F,T,US,NJ,Camden,Rutgers Business School,http://www.business.rutgers.edu/mba/admissions/post-mba-certificate
+Rutgers University,MBA with Analytics and Information Management Concentration,M,F,T,US,NJ,Camden,Rutgers Business School,http://www.business.rutgers.edu/mba/concentrations/aim
+Saint Peter's University,Master of Science in Data Science with a concentration in Business Analytics,M,T,F,US,NJ,Jersey City,Saint Peter's University,http://www.saintpeters.edu/data-science-and-business-analytics/
+Stevens Institute of Technology,MS in Business Intelligence and Analytics,M,T,F,US,NJ,Hoboken,Graduate School,http://www.stevens.edu/sit/graduate/master-of-science-business-intelligence-and-analytics.cfm
+Stevens Institute of Technology,BI&A Graduate Certificate,C,F,T,US,NJ,Hoboken,Wesley J. Howe School of Technology Management,https://www.stevens.edu/howe/academics/graduate/business-intelligence-analytics-bi-ms/bi-graduate-certificate
+Stevens Institute of Technology,Master of Science in Information Systems,M,T,F,US,NJ,Hoboken,Wesley J. Howe School of Technology Management,https://www.stevens.edu/howe/academics/graduate/information-systems
+Thomas Edison State University,MBA in Data Analytics,M,F,T,US,NJ,Trenton,School of Business & Management,http://www.tesu.edu/business/mba/Data-Analytics.cfm
+Thomas Edison State University,Data Science and Analytics,B,F,T,US,NJ,Trenton,Heavin School of Arts & Sciences,http://www.tesu.edu/heavin/bs/Data-Science.cfm
+University of Nevada-Reno,Information Systems Data Analytics Track,M,F,T,US,NV,Reno,,http://www.unr.edu/business/degree-programs/information-systems/msis#dataanalyticstrack
+City College-City University of New York,Masters in Data Science and Engineering (MS-DSE),M,F,T,US,NY,New York City,Grove School of Engineering-Computer Science,https://www.ccny.cuny.edu/dse
+Columbia University in the City of New York,Master of Science in Data Science,M,F,T,US,NY,New York,Data Science Institute,http://datascience.columbia.edu/master-of-science-in-data-science
+Columbia University in the City of New York,Master of Arts in Statistics,M,F,T,US,NY,New York,Department of Statistics,http://stat.columbia.edu/ma-programs/
+Columbia University in the City of New York,Master of Science in Computer Science with concentration in Machine Learning,M,T,T,US,NY,New York,Fu Foundation School of Engineering and Applied Science,http://www.cs.columbia.edu/education/ms/machineLearning/
+Columbia University in the City of New York,Master of Arts in Biomedical Informatics,M,F,T,US,NY,New York,"Department of Biomedical Informatics, Columbia University Medical Center",https://www.dbmi.columbia.edu/prospective-students/our-programs/ma/
+Columbia University in the City of New York,PhD in Biomedical Informatics,M,F,T,US,NY,New York,"Department of Biomedical Informatics, Columbia University Medical Center",https://www.dbmi.columbia.edu/prospective-students/our-programs/phd/
+Columbia University in the City of New York,PhD in Statistics,D,F,T,US,NY,New York,"Department of Statistics,Graduate School of Arts and Sciences",http://stat.columbia.edu/programs/ph-d-program/
+Columbia University in the City of New York,Master of Science in Applied Analytics,M,F,T,US,NY,New York,School of Professional Studies,http://sps.columbia.edu/applied-analytics/master-of-science-in-applied-analytics
+Columbia University in the City of New York,Masters in Applied Statistics,M,F,T,US,NY,New York,"Division on Measurement, Evaluation and Statistics, Department of Human Development, Columbia University Teachers College",http://www.tc.columbia.edu/human-development/measurement-evaluation-and-statistics/degrees/
+Columbia University in the City of New York,Master of Arts in Quantitative Methods for Social Sciences,M,F,T,US,NY,New York,"Institute for Social and Economic Research and Policy (ISERP), Columbia University",http://www.qmss.columbia.edu/
+Columbia University in the City of New York,Master of Science in Data Journalism,M,F,T,US,NY,New York,Columbia Journalism School,https://journalism.columbia.edu/ms-data-journalism
+Cornell University,Master of Science in Health Informatics,M,F,T,US,NY,Ithaca,Cornell Medial College,http://hpr.weill.cornell.edu/education_and_training/MS_Health_Informatics_curriculum.html
+Cornell University,Master of Professional Studies (MPS) in Applied Statistics (Option II: Data Science),M,F,T,US,NY,Ithaca,Department of Statistical Science,http://stat.cornell.edu/academics/mps
+Cornell University,Data Analytics,M,F,T,US,NY,Ithaca,Engineering,http://www.orie.cornell.edu/orie/academics/master/index.cfm
+Cornell University,MBA,M,F,T,US,NY,Ithaca,Johnson School of Management,https://www.johnson.cornell.edu/Programs/Full-Time-MBA/Two-Year-MBA
+CUNY Bernard M Baruch College,Advanced Certificate in Business Analytics of Large-Scale Data,C,F,T,US,NY,New York,School of Business,http://www.csi.cuny.edu/catalog/graduate/advanced-certificate-in-business-analytics-of-large-scale-data.htm
+CUNY Graduate School and University Center,Online Master of Science in Data Analytics,M,F,T,US,NY,New York,CUNY School of Professional Studies,https://sps.cuny.edu/academics/graduate/master-science-data-analytics-ms
+CUNY Queens College,MA in Data Analytics & Applied Social Research,M,T,F,US,NY,Flushing,Sociology Department,http://qcbigdata.com/program/
+DeVry University,Big Data and Analytics,B,T,T,US,NY,New York City,,https://www.devry.edu/degree-programs/engineering-information-sciences/big-data-and-analytics-degree-specialization.html
+Fordham University,Master of Science in Business Analytics,M,F,T,US,NY,Bronx,Graduate School of Business,http://www.bnet.fordham.edu/academic_bulletin/2015/ms/MS_Business_Analytics/index.asp
+Keller Graduate School of Management,MBA with a Business Intelligence and Analytics Management Concentration,M,F,T,US,NY,New York,Keller Graduate School of Management,http://keller.edu/graduate-degree-programs/mba-program/business-intelligence-mba.html
+Marist College,Advanced Certificate in Business Analytics,C,T,F,US,NY,Poughkeepsie,School of Computer Science and Mathematics,http://www.marist.edu/admission/graduate/business-analytics/
+New York University,PhD in Data Science,D,T,F,US,NY,New York,NYU Center for Data Science,http://cds.nyu.edu/phd-program/
+New York University,Master of Science in Data Science,M,T,F,US,NY,New York,NYU Center for Data Science,http://cds.nyu.edu/academics/ms-in-data-science/
+New York University,Advanced Certificate in Applied Urban Science and Informatics,C,F,T,US,NY,New York,Center for Urban Science & Progress,http://cusp.nyu.edu/advanced-certificate-in-applied-urban-science-and-informatics/
+New York University,MS in Applied Urban Science and Informatics,M,T,T,US,NY,New York,Center for Urban Science & Progress,http://cusp.nyu.edu/ms-in-applied-urban-science-and-informatics/
+New York University,Master of Science in Applied Statistics for Social Science Research,M,T,F,US,NY,New York,"Steinhardt School of Culture, Education, and Human Development: D",http://steinhardt.nyu.edu/graduate_admissions/guide/assr/ms
+New York University,Certificate in Healthcare Informatics,C,T,F,US,NY,New York,School of Professional Studies: Management and Information Technology,http://www.scps.nyu.edu/academics/departments/information-technology/academic-offerings/noncredit/certificate-in-healthcare-informatics.html
+New York University,"MBA, Specialization in Business Analytics",M,T,F,US,NY,New York,Stern School of Business,http://www.stern.nyu.edu/programs-admissions/full-time-mba/academics/specializations/business-analytics/index.htm
+New York University,Master of Science in Business Analytics,M,T,F,US,NY,New York,Stern School of Business,http://www.stern.nyu.edu/programs-admissions/global-degrees/business-analytics/academics/course-index/
+New York University,Master of Science in Information Systems,M,F,T,US,NY,New York,Computer Science Department,https://cs.nyu.edu/webapps/content/academic/graduate/msis
+New York University,Applied Data Analytics and Visualization,B,F,T,US,NY,New York,School of Professional Studies,http://www.sps.nyu.edu/academics/departments/mcghee/undergraduate/bs-applied-data-analytics-and-visualization.html
+Pace University-New York,MS in Customer Intelligence and Analytics,M,T,F,US,NY,New York,Lubin School of Business,http://www.pace.edu/lubin/ms-in-customer-intelligence-analytics
+Pace University-New York,Master of Science in Information Systems,M,T,F,US,NY,New York,Seidenberg School of Computer Science and Information Systems,http://www.pace.edu/seidenberg/ms-in-information-systems
+Rensselaer Polytechnic Institute,MS in Business Analytics,M,F,T,US,NY,Troy,Lally School of Management,http://lallyschool.rpi.edu/academics/ms_ba.html
+Rensselaer Polytechnic Institute,M.S. in Information Technology - Concentration in Data Science and Analytics,M,F,T,US,NY,Troy,Department of Information Technology & Web Science,https://www.rpi.edu/dept/IT/graduate/Masters.html
+St. John's University-New York,Master of Science in Data Mining and Predictive Analytics,M,F,T,US,NY,Queens,"Department of Computer Science, Mathematics, and Science",http://www.stjohns.edu/academics/schools-and-colleges/college-professional-studies/programs-and-majors/data-mining-and-predictive-analytics-master-science
+Syracuse University,Data Science,M,T,F,US,NY,Syracuse,,https://datascience.syr.edu/
+Syracuse University,Certificate of Advanced Study in Data Science,C,T,F,US,NY,Syracuse,School of Information Studies,http://ischool.syr.edu/future/cas/datascience.aspx
+The New School,Data Visualization (MS),M,T,F,US,NY,New York,"School of Art, Media & Technology",http://www.newschool.edu/parsons/ms-data-visualization/
+Trocaire College,Certificate in Healthcare Informatics,C,T,F,US,NY,Buffalo,Healthcare Informatics,https://www.trocaire.edu/academics/healthcare-informatics/healthcare-informatics-certificate
+Union Graduate College,Master of Science in Healthcare Data Analytics,M,T,F,US,NY,Schenectady,School of Management,http://www.uniongraduatecollege.edu/management/MS-Healthcare.aspx
+Fei Tian College,Bachelor of Science (BS) in Data Science,B,F,T,US,NY,Middletown,Data Science,https://www.mt.feitian.edu/data-science
+University at Buffalo,Master of Science (MS) in Management Science: Business Analytics and Systems from the State University of New York at Buffalo and a Master of Business,M,T,F,US,NY,Buffalo,University at Buffalo School of Management and Amrita University,http://mgt.buffalo.edu/faculty/academic/systems/business-analytics-amrita
+University of Rochester,Professional MS in Computer Science (Concentration in Data Analytics),M,F,T,US,NY,Rochester,Department of Computer Science,http://www.cs.rochester.edu/graduate/masters-program.html
+University of Rochester,Data Science,B,F,T,US,NY,Rochester,Interdisciplinary,http://www.rochester.edu/data-science/academics/index.html
+University of Rochester,Master of Science in Data Science,M,F,T,US,NY,Rochester,Institute for Data Science,http://www.rochester.edu/data-science/degrees/MSdetails.html
+University of Rochester,MS in Business Administration (Concentration in Business Analytics),M,F,T,US,NY,Rochester,Simon School of Business,http://www.simon.rochester.edu/programs/full-time-ms/academics/programs/business-analytics/index.aspx
+University of Rochester,MA and MS in Medical Statistics,M,F,T,US,NY,Rochester,Department of Biostatistics and Computational Biology,http://www.urmc.rochester.edu/education/graduate/phd/statistics/
+Bowling Green State University,Master of Science in Applied Statistics (specialization in Business Analytics),M,F,T,US,OH,Bowling Green,Department of Applied Statistics & Operations Research/Department of Mathem,http://www.bgsu.edu/business/asor/graduateprograms.html
+Bowling Green State University,M.S. in Analytics,M,F,T,US,OH,Bowling Green,Graduate College,http://www.bgsu.edu/graduate/analytics.html
+Case Western Reserve University,Systems Biology and Informatics,D,F,T,US,OH,Cleveland,Molecular and Computational Biology,http://bioinformatics.case.edu/
+Case Western Reserve University,Health Informatics,M,F,T,US,OH,Cleveland,Case School of Engineering,http://engineering.case.edu/eecs/node/466
+Case Western Reserve University,Data Science,B,F,T,US,OH,Cleveland,Data Science,http://datascience.case.edu/
+Cleveland State University,Graduate Certificate in Strategic Business Analytics,C,T,F,US,OH,Cleveland,Monte Ahuja College of Business,http://www.csuohio.edu/business/academics/business-analytics-graduate-certificate-programs
+Cleveland State University,Graduate Certificate in Advanced Business Analytics,C,T,F,US,OH,Cleveland,Monte Ahuja College of Business,http://www.csuohio.edu/business/academics/business-analytics-graduate-certificate-programs
+Denison University,Major in Data Analytics,B,F,T,US,OH,Granville,Data Analytics,http://denison.edu/academics/data-analytics
+Miami University of Ohio,Business Analytics Minor,B,F,T,US,OH,Oxford,Business,http://miamioh.edu/academics/majors-minors/minors/business-analytics.html
+Miami University of Ohio,I.S. and Analytics,B,F,T,US,OH,Oxford,Business,http://miamioh.edu/fsb/academics/isa/academics/majors/co-major/index.html
+Notre Dame College,Certificate in Competitive Business Intelligence,C,F,T,US,OH,Cleveland,Notre Dame College Online,http://online.notredamecollege.edu/programs/certificate-in-competitive-business-intelligence/
+Ohio University,Online MBA in Business Analytics,M,T,F,US,OH,Athens,College of Business,http://onlinemasters.ohio.edu/masters-business-administration/
+The Ohio State University,Master of Public Health in Biomedical Informatics,M,T,F,US,OH,Columbus,College of Medicine,http://medicine.osu.edu/bmi/education/prospective_students/ms-and-mph-degrees/pages/index.aspx
+The Ohio State University,Master of Applied Statistics,M,F,T,US,OH,Columbus,Department of Statistics,http://www.stat.osu.edu/dept/descriptions-programs/master-applied-statistics/quarters
+The Ohio State University,Data Analytics,B,F,T,US,OH,Columbus,Interdisciplinary,https://data-analytics.osu.edu/
+University of Akron,Data Science,M,F,T,US,OH,Akron,Center for Data Science Analytics and Information Technology,http://uakron.edu/datascience/
+University of Cincinnati-Main Campus,Master of Science in Health Informatics,M,T,T,US,OH,Cincinnati,College of Allied Health Sciences,http://mshi.uc.edu/
+University of Cincinnati-Main Campus,Master of Science in Business Analytics,M,F,T,US,OH,Cincinnati,Lindner College of Business,https://business.uc.edu/programs/graduate/msbana.html
+Oklahoma State University Center for Health Sciences,Graduate Certificate in Business Data Mining,C,F,T,US,OK,Tulsa,Watson Graduate School of Management,http://watson.okstate.edu/datamining/program/
+Oklahoma State University Center for Health Sciences,Graduate Certificate in Marketing Analytics,C,T,F,US,OK,Tulsa,Watson Graduate School of Management,http://watson.okstate.edu/marketinganalytics/program/
+Southwestern Oklahoma State University,M.S. Healthcare Informatics & Information Management,M,T,F,US,OK,Weatherford,Allied Health,http://www.swosu.edu/academics/him/programs/graduate/curriculum.aspx
+University of Oklahoma Norman Campus,Data Science,M,F,T,US,OK,Norman,College of Engineering,http://www.ou.edu/coe/datascience.html
+University of Oklahoma Norman Campus,MS in Management Information Systems,M,F,T,US,OK,Norman,Division of Management Information Systems,http://www.ou.edu/price/mis/mis_ms_in_mis.html
+Oregon State University,MBA in Business Analytics,M,F,T,US,OR,Corvallis,College of Business,http://business.oregonstate.edu/mba/academics/tracks/business-analytics
+Pacific University,Bachelors of Science in Data Science,B,F,T,US,OR,Forest Grove,Mathematics and Computer Science,http://www.pacificu.edu/data-science 
+Juniata College,Data Science,B,F,T,US,PA,Huntingdon,,https://www.juniata.edu/academics/departments/data-science/
+Juniata College,Masters of Data Science,M,T,F,US,PA,Huntingdon,,https://www.juniata.edu/academics/graduate-programs/data-science.php
+Albright College,M.S. in Business Intelligence,M,F,T,US,PA,Reading,Erivan K. Haub School of Business,http://www.albright.edu/accelerated/masters-degree-articulations.html
+Carnegie Mellon University,Master of Computational Data Science (MCDS),M,F,T,US,PA,Pittsburgh,School of Computer Science,http://mcds.cs.cmu.edu/?q=node/6
+Carnegie Mellon University,MBA: Business Analytics Track,M,T,F,US,PA,Pittsburgh,Tepper School of Business,http://tepper.cmu.edu/prospective-students/masters/mba/curriculum/tracks-and-capstones/business-analytics
+Carnegie Mellon University,"Master of Information Systems Management, Business Intelligence and Data Analytics (MISM-BIDA)",M,F,T,US,PA,Pittsburgh,Heinz College,http://www.heinz.cmu.edu/school-of-information-systems-and-management/information-technology-msit/curriculum/msit-bida/index.aspx
+Carnegie Mellon University,"Master of Science in Information Technology, Business Intelligence and Data Analytics (MSIT-BIDA)",M,F,T,US,PA,Pittsburgh,Heinz College,http://www.heinz.cmu.edu/school-of-information-systems-and-management/information-technology-msit/curriculum/msit-bida/index.aspx
+Carnegie Mellon University,Machine Learning,D,F,T,US,PA,Pittsburgh,,http://www.ml.cmu.edu/prospective-students/PhD%20Programs.html
+Carnegie Mellon University,Master of Statistical Practice,M,F,T,US,PA,Pittsburgh,Statistics,http://www.stat.cmu.edu/academics/graduate/the-masters-in-statistical-practice-program
+Drexel University,Information Studies,D,F,T,US,PA,Philadelphia,Computing and Informatics,http://drexel.edu/cci/academics/graduate-programs/phd-information-studies/
+Drexel University,Certificate in Healthcare Informatics,C,F,T,US,PA,Philadelphia,Drexel University's Institute for Healthcare Informatics,http://drexel.edu/cci/programs/professional-development-programs/certificate-in-healthcare-informatics/
+Drexel University,Online Master's in Health Informatics,M,T,F,US,PA,Philadelphia,College of Computing and Informatics with support from Drexel University's,http://www.drexel.com/online-degrees/information-sciences-degrees/ms-hci/index.aspx
+Drexel University,M.S. in Business Analytics,M,F,T,US,PA,Philadelphia,LeBow College of Business,http://www.lebow.drexel.edu/academics/programs/masters/business-analytics
+Harrisburg University of Science and Technology,Online Master of Science in Analytics,M,T,T,US,PA,Harrisburg,Graduate Education,http://www.harrisburgu.edu/academics/graduate/analytics/online-analytics.php
+La Salle University,M.S. in Analytics,M,F,T,US,PA,Philadelphia,College of Professional & Continuing Studies,http://www.lasalle.edu/analytics/
+Misericordia University,Health Care Informatics Graduate Certificate,C,T,T,US,PA,Dallas,College of Health Sciences,http://www.misericordia.edu/misericordia_pg_sub.cfm?sub_page_id=3990&subcat_id=108&page_id=989
+Misericordia University,Health Informatics Master's Program,M,T,F,US,PA,Dallas,College of Health Sciences,http://www.misericordia.edu/misericordia_pg_sub.cfm?sub_page_id=4235&subcat_id=108
+Lehigh University,Data Science Minor,B,F,T,US,PA,Bethlehem,Computer Science and Engineering,https://engineering.lehigh.edu/academics/undergraduate/minors/data-science-minor
+Pennsylvania State University,Data Sciences,B,F,T,US,PA,University Park,Interdisciplinary: Statistics/Computer Sciences/Information Science & Tech,http://datasciences.psu.edu/
+Pennsylvania State University,Social Data Analytics,D,F,T,US,PA,University Park,Interdisciplinary,http://bdss.psu.edu/education
+Pennsylvania State University,Graduate Certificate in Applied Statistics,C,F,T,US,PA,University Park,Eberly College of Science,http://www.worldcampus.psu.edu/degrees-and-certificates/applied-statistics-certificate/courses
+Pennsylvania State University,Master of Applied Statistics,M,T,F,US,PA,University Park,Eberly College of Science,http://www.worldcampus.psu.edu/degrees-and-certificates/applied-statistics-masters/overview
+Pennsylvania State University,Graduate Certificate in Business Analytics,C,T,F,US,PA,University Park,Smeal College of Business,http://www.worldcampus.psu.edu/degrees-and-certificates/business-analytics-certificate/overview
+Pennsylvania State University,Master of Professional Studies in Data Analytics,M,F,T,US,PA,University Park,Penn State World Campus,http://www.worldcampus.psu.edu/degrees-and-certificates/data-analytics-base/overview
+Pennsylvania State University,Master of Professional Studies in Data Analytics,M,F,T,US,PA,University Park,Penn State World Campus,http://www.worldcampus.psu.edu/degrees-and-certificates/data-analytics-business/overview
+Pennsylvania State University,Graduate Certificate in Business Analytics,C,F,T,US,PA,University Park,Penn State World Campus,https://www.worldcampus.psu.edu/degrees-and-certificates/business-analytics-certificate/overview
+Philadelphia University,"M.S. in Modeling, Simulation and Data Analytics",M,F,T,US,PA,Philadelphia,"Kanbar College of Design, Engineering, and Commerce",http://www.philau.edu/msda/curriculum.html
+Saint Joseph's University,Online Master of Science in Business Intelligence & Analytics,M,T,F,US,PA,Philadelphia,Erivan K. Haub School of Business,http://online.sju.edu/programs/business-intelligence-course.asp
+Saint Joseph's University,Online Master's in Health Administration: Informatics Specialization,M,F,T,US,PA,Philadelphia,St Joseph's University Online,http://online.sju.edu/programs/masters-health-administration-informatics.asp
+Saint Joseph's University,Master of Science in Business Intelligence & Analytics Program,M,T,F,US,PA,Philadelphia,Erivan K. Haub School of Business,http://www.sju.edu/int/academics/hsb/grad/msbi/
+Temple University,Master of Science in Health Informatics,M,T,F,US,PA,Philadelphia,Health Information Management Department (College of Health Professions) an,http://chpsw.temple.edu/him/degrees-offered/master-science-health-informatics
+University of Pittsburgh-Bradford,Master's Degree in Biomedical Informatics,M,T,F,US,PA,Bradford,Department of Biomedical Informatics,http://www.dbmi.pitt.edu/training-programs
+University of Pittsburgh-Bradford,Master's Degree in Biostatistics,M,F,F,US,PA,Bradford,Graduate School of Public Health,http://www.publichealth.pitt.edu/Portals/0/BIOSTAT/BIOST%20MS%20Brochure.pdf
+University of Pittsburgh-Pittsburgh Campus,MSIS - Big Data Analytics,M,T,T,US,PA,Pittsburgh,School of Information Sciences,http://www.ischool.pitt.edu/ist/degrees/specializations/big-data.php
+Villanova University,Graduate Certificate in Applied Statistics,C,F,T,US,PA,Villanova,Liberal Arts and Sciences,http://www1.villanova.edu/content/dam/villanova/artsci/gradstudies/AppliedStatisticsGraduateInformationSheet.pdf
+Villanova University,Master of Science in Applied Statistics,M,F,T,US,PA,Villanova,Liberal Arts and Sciences,http://www1.villanova.edu/villanova/artsci/mathematics/academic-programs/graduate/programs/msapplied.html
+Villanova University,Master of Science in Analytics,M,T,F,US,PA,Villanova,School of Business,http://taxandbusinessonline.villanova.edu/master-of-science-in-analytics
+Villanova University,Online Master of Business Administration,M,T,F,US,PA,Villanova,School of Business,http://taxandbusinessonline.villanova.edu/master-of-business-administration
+Mercyhurst University,Data Science,M,F,T,US,PA,Erie,Ridge College of Intelligence Studies and Applied Sciences,https://www.mercyhurst.edu/academics/graduate-programs/graduate-degrees-and-certificates-intelligence-studies/data-science
+Elizabethtown College,Data Science,B,F,T,US,PA,Elizabethtown,Computer Science,https://www.etown.edu/depts/computer-science/data-science-major.aspx
+Brown University,Big Data,D,F,T,US,RI,Providence,Computer Science,http://cs.brown.edu/~kraskat/phd.html
+College of Charleston,Data Science,B,F,T,US,SC,Charleston,Computer Science,http://datascience.cofc.edu/
+Medical University of South Carolina,Master of Science in Health Informatics,M,T,F,US,SC,Charleston,College of Health Professions,http://academicdepartments.musc.edu/chp/MSHI/
+University of South Carolina-Columbia,Master of Applied Statistics,M,F,T,US,SC,Columbia,Department of Statistics,http://www.sc.edu/stat_dist/mas.shtml
+Augustana University,Data Science,B,F,T,US,SD,Sioux Falls,Computer Science,http://www.augie.edu/academics/majors-and-programs/data-science
+University of South Dakota,MS in Business Analytics,M,F,T,US,SD,Vermillion,Business,https://www.usd.edu/business/business-analytics
+Dakota State University,Analytics,M,T,T,US,SD,Madison,Business and Information Systems,http://www.dsu.edu/msa/
+South Dakota State University,Computational Science and Statistics,D,F,T,US,SD,Brookings,Mathematics and Statistics,http://www.sdstate.edu/mathstat/grad/css-phd.cfm
+South Dakota State University,Data Science,M,F,T,US,SD,Brookings,Mathematics and Statistics,http://www.sdstate.edu/mathstat/grad/masters-in-data-science.cfm
+Maryville College,Business Analytics,B,F,T,US,TN,Maryville,College of Business Administration,https://www.maryvillecollege.edu/academics/programs-of-study/business-analytics/
+Maryville College,Minor in Analytics,B,F,T,US,TN,Maryville,College of Business Administration,https://www.maryvillecollege.edu/academics/programs-of-study/analytics/
+Austin Peay State University,Professional Science Master's in Data Management and Analysis,M,F,T,US,TN,Clarksville,Department of Computer Science and Information Technology,http://www.apsu.edu/csci/psm-information
+Austin Peay State University,Professional Science Master's Degree in Predictive Analytics,M,F,T,US,TN,Clarksville,Department of Mathematics and Statistics,https://www.apsu.edu/csci/psm-information
+Middle Tennessee State University,Master of Science in Professional Science (M.S.) with a concentration in Health Care Informatics,M,T,T,US,TN,Murfreesboro,College of Basic and Applied Sciences,http://catalog.mtsu.edu/preview_program.php?catoid=9&poid=2308&returnto=377
+Middle Tennessee State University,Master of Science in Information Systems (Business Intelligence and Analytics Concentration),M,F,T,US,TN,Murfreesboro,Department of Computer Information Systems,http://www.mtsu.edu/graduate/programs/info_bia.php
+Tennessee Technological University,Professional Science Master's Degree in Environmental Informatics,M,T,F,US,TN,Cookeville,College of Interdisciplinary Studies,https://www.tntech.edu/is/ses/psm/psmei
+The University of Tennessee,Master of Science in Business Analytics,M,F,T,US,TN,Knoxville,College of Business Administration,http://bus.utk.edu/soms/analytics/
+The University of Tennessee,MBA with Business Analytics Concentration,M,T,F,US,TN,Knoxville,College of Business Administration,http://mba.utk.edu/program-basics/business-analytics.asp
+The University of Tennessee at Chattanooga,Professional MBA with Business Analytics,M,T,F,US,TN,Chattanooga,College of Business,http://www.utc.edu/college-business/academic-programs/mba/index.php
+University of Memphis,Master's Program in Bioinformatics,M,T,F,US,TN,Memphis,College of Arts and Sciences,http://memphis.edu/binf/
+Southern Methodist University,Statistics and Data Analytics,M,F,T,US,TX,Dallas,Statistics,http://www.smu.edu/Dedman/Academics/Departments/Statistics/AppliedMSProgram
+Southern Methodist University,Online Master of Science in Data Science,M,T,F,US,TX,Dallas,Data Science,http://datascience.smu.edu
+St. Mary's University,Data Analytics,B,F,T,US,TX,San Antonio,Business,https://www.stmarytx.edu/academics/business/undergraduate/accounting-data-analytics-major/
+Tarleton State University,M.S. in Mathematical Data Mining,M,F,T,US,TX,Stephenville,Department of Mathematics,http://www.tarleton.edu/Costweb/math/degrees/graduate.html#MSDataMining
+Texas A & M University-College Station,M.S. in Analytics,M,T,F,US,TX,College Station,Department of Statistics,http://analytics.stat.tamu.edu/
+Texas A & M University-College Station,Online M.S. in Applied Statistics,M,F,T,US,TX,College Station,Department of Statistics,http://www.stat.tamu.edu/dist/programs.php
+Texas Tech University,Master of Science in Data Science,M,F,T,US,TX,Lubbock,Rawls College of Business,https://www.depts.ttu.edu/rawlsbusiness/graduate/ms/datascience/
+The University of Texas at Austin,Master of Data Science Online,M,T,F,US,TX,Austin,"College of Natural Science (Department of Computer Science, Department of Statistics and Data Sciences)",http://ms-datascience.utexas.edu/
+The University of Texas at Austin,Master of Science in Business Analytics,M,F,T,US,TX,Austin,Red McCombs School of Business,http://www.mccombs.utexas.edu/business-analytics.aspx
+The University of Texas at Dallas,Master of Science in Marketing with Specialization in Marketing Analytics,M,T,F,US,TX,Richardson,Naveen Jindal School of Management,http://jindal.utdallas.edu/academic-areas/marketing/master-of-science-in-marketing/ms-in-marketing-course-descriptions/
+The University of Texas at Dallas,Master of Science in Healthcare Management with Specialization in Healthcare informatics,M,T,F,US,TX,Richardson,Naveen Jindal School of Management,http://jindal.utdallas.edu/academic-programs/masters-programs/master-of-science-in-healthcare-management/
+The University of Texas at Dallas,Master of Science in Business Analytics,M,F,T,US,TX,Richardson,Jindal School of Management,http://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=1791
+The University of Texas at Dallas,Social Data Analytics and Research,M,F,T,US,TX,Richardson,"School of Economic, Political and Policy Sciences",http://epps.utdallas.edu/sdar/
+The University of Texas at San Antonio,Master of Science in Applied Statistics,M,T,F,US,TX,San Antonio,College of Business,http://graduateschool.utsa.edu/future-students/academic-programs/applied-statistics-m.s
+University of Dallas,MS or MBA - Business Analytics,M,F,T,US,TX,Dallas,Satish and Yasmin Gupta College of Business,http://udallas.edu/cob/academics/ms/business_analytics/index.php
+University of North Texas,MS - Business Analytics,M,F,T,US,TX,Denton,College of Business,http://www.cob.unt.edu/programs/masters/tracksheets/MS%20Business%20Analytics.pdf
+University of Utah,MS in Computing: Data Management & Analysis,M,T,T,US,UT,Salt Lake City,School of Computing,http://www.cs.utah.edu/graduate/hb2014-15/gradhbk2014-15-ms-guidelines/
+University of Utah,Big Data Certificate,C,F,T,US,UT,Salt Lake City,School of Computing,http://www.cs.utah.edu/bigdata/
+Western Governors University,Data Analytics,B,T,F,US,UT,Salt Lake City,IT,https://www.wgu.edu/online-it-degrees/data-management-analytics-bachelors-program.html
+Westminster College,Minor in Data Science,B,F,T,US,UT,Salt Lake City,Data Science,https://catalog.westminstercollege.edu/undergraduate2016-2017/data-science-data/
+George Mason University,Spatial Business Intelligence Graduate Certificate,C,T,F,US,VA,Fairfax,School of Management,http://catalog.gmu.edu/preview_program.php?catoid=5&poid=3296&returnto=85
+George Mason University,MS in Computational Science,M,F,T,US,VA,Fairfax,"School of Physics, Astronomy, and Computational Sciences",http://spacs.gmu.edu/ms-in-computational-science/
+George Mason University,Computational Data Sciences Minor,B,F,T,US,VA,Fairfax,"School of Physics, Astronomy, and Computational Sciences",http://spacs.gmu.edu/minor-in-computational-and-data-sciences/
+George Mason University,Computational Sciences and Informatics,D,F,T,US,VA,Fairfax,"School of Physics, Astronomy, and Computational Sciences",http://spacs.gmu.edu/phd-in-computational-sciences-and-informatics/
+George Mason University,MS in Data Analytics Engineering,M,T,F,US,VA,Fairfax,Volgenau School of Engineering,http://volgenau.gmu.edu/dae
+George Mason University,Masters in Information Systems,M,F,T,US,VA,Fairfax,Department of Computer Science,https://cs.gmu.edu/programs/masters/infs/
+Radford University,MS in Data and Information Management,M,T,F,US,VA,Radford,College of Science and Technology: Department of Information Technology,http://www.radford.edu/content/csat/home/daim/about.html
+University of Mary Washington,Data Science Minor,B,F,T,US,VA,Fredericksburg,Department of Computer Science,http://publications.umw.edu/undergraduatecatalog/courses-of-study/minors/data/
+University of Virginia,Master of Science in Data Science (MSDS),M,T,F,US,VA,Charlottesville,Data Science Institute,http://dsi.virginia.edu/academics
+Virginia Commonwealth University,"Master of Science in Business, concentration in Decision Sciences and Business Analytics",M,F,T,US,VA,Richmond,School of Business,http://www.pubapps.vcu.edu/bulletins/prog_search/?did=20172
+Virginia Commonwealth University,Master of Decision Analytics,M,F,T,US,VA,Richmond,School of Business,http://bulletin.vcu.edu/graduate/school-business/supply-chain-management/decision-analytics-mda/
+Virginia Polytechnic Institute and State University,Computational Modeling and Data Analytics,B,F,T,US,VA,Blacksburg,College of Science,http://www.ais.science.vt.edu/programs/cmda.html
+Shenandoah University,Data Science and Applied Mathematics,B,F,T,US,VA,Winchester,Mathematics,https://www.su.edu/arts/data-science/
+Statistics.com,Analytics for Data Science,C,T,F,US,VA,Arlington,,http://www.statistics.com/analytics-for-data-science/
+William and Mary,Business Analytics,M,F,T,US,VA,Williamsburg,Mason School of Business,http://mason.wm.edu/programs/msba/
+Bellevue College,Healthcare Data Analyst Certificate,C,T,F,US,WA,Bellevue,Bellevue College Continuing Education,http://www.bellevuecollege.edu/ce/healthcare-classes/healthcare-data-analyst-certificate/
+City University of Seattle,Master of Science in Computer Systems with Concentration in Big Data Management,M,F,T,US,WA,Seattle,Technology Institute,http://www.cityu.edu/programs/ti/ms_computer_systems.aspx
+Seattle University,Master of Science in Business Analytics,M,F,T,US,WA,Seattle,Albers School of Business and Economics,https://www.seattleu.edu/albers/msba/
+Seattle University,Graduate Certificate in Business Analytics,C,T,T,US,WA,Seattle,Albers School of Business and Economics,https://www.seattleu.edu/albers/graduate/certificates/business-analytics/
+University of Washington-Seattle Campus,M.S. in Data Science,M,F,T,US,WA,Seattle,Interdisciplinary,http://datasciencemasters.uw.edu/
+University of Washington-Seattle Campus,Certificate in Data Science,C,F,T,US,WA,Seattle,UW Department of Computer Science & Engineering,http://escience.washington.edu/content/certificate-data-science
+University of Washington-Tacoma Campus,Big Data,D,F,T,US,WA,Tacoma,Interdisciplinary,http://escience.washington.edu/education-IGERT
+University of Washington-Tacoma Campus,Certificate in Business Analysis,C,T,T,US,WA,Tacoma,Professional and Continuing Education,http://www.pce.uw.edu/certificates/business-analysis.html
+University of Washington-Tacoma Campus,Certificate in Business Intelligence,C,F,T,US,WA,Tacoma,UW Department of Computer Science & Engineering,http://www.pce.uw.edu/certificates/business-intelligence-decision-making.html
+Washington State University,Online Executive MBA,C,F,T,US,WA,Pullman,WSU Carson College of Business,http://embaonline.wsu.edu/
+University of Wisconsin-Madison,Master of Engineering in Applied Computing and Engineering Data Analytics,M,F,T,US,WI,Madison,Department of Engineering Professional Development, https://epd.wisc.edu/online-degree/applied-computing-and-engineering-data-analytics/
+University of Wisconsin Colleges,Online Master of Science in Data Science,M,F,T,US,WI,Madison,UW Extension,http://datasciencedegree.wisconsin.edu/
+University of Wisconsin Colleges,Graduate Certificate in Business Analytics (UW-Milwaukee),C,T,F,US,WI,Madison,Lubar School of Business,http://ecampus.wisconsin.edu/online-certificate/certificate-in-business-analytics-uw-milwaukee.aspx
+University of Wisconsin-Madison,Master of Science in Statistics - Data Science,M,F,T,US,WI,Madison,Department of Statistics,https://advanceyourcareer.wisc.edu/degrees/data-science/
+University of Wisconsin-Milwaukee,Online Graduate Certificate in Business Analytics,C,T,F,US,WI,Milwaukee,The Lubar School of Business,http://www4.uwm.edu/business/programs/certificates/business-analytics.cfm
+University of Wisconsin-River Falls,Data Science and Predictive Analytics,B,F,T,US,WI,River Falls,Business and Economics,https://www.uwrf.edu/CBE/Programs/DataScience.cfm
+West Virginia University,Master of Professional Studies in Statistical and Data Sciences,M,F,T,US,WV,Morgantown,Department of Statistics,http://www.stat.wvu.edu/Programs/mpsstat.html
+Ukrainian Catholic Univeristy,Computer Science with specialization in Data Science,M,F,T,UA,,Lviv,Applied Science,http://csds.ucu.edu.ua/
+Sabancı University,Data Science,M,F,T,TR,,,Engineering,http://da.sabanciuniv.edu/en
+National University of Singapore,Business Analytics,M,F,T,SG,,,,http://msba.nus.edu/home
+Dalarna University,Business Intelligence,M,F,T,SE,,,,http://www.du.se/en/bi
+Blekinge Institute of Technology,Data Science Engineering,M,F,T,SE,Blekinge,Karlskrona,Computer Science and Engineering,https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/
+Kth Royal Institute Of Technology,Machine Learning,M,F,T,SE,,,,http://www.kth.se/en/studies/programmes/master/programmes/it/machinelearning
+Linköping University,Statistics And Data Mining,M,F,T,SE,,,,http://www.liu.se/utbildning/pabyggnad/F7MSM?l=en
+Novosibirsk State University,MS in Big Data Analytics,M,F,T,RU,,Novosibirsk,Mechanic-Mathematic,http://bigdatansu.ru/
+Universidade Nova de Lisboa,Information Management,M,F,T,PT,,,Statistics And Information Management,http://www.isegi.unl.pt/MGI/Especializacao/Gestao-Sistemas-Tecnologias-Informacao/Detalhe-do-Curso/plano-de-estudos.asp
+Asian Institute of Management,Master of Science in Data Science,M,F,T,PH,,,,https://www.aim.edu/programs/degree-programs/master-science-data-science
+University of Auckland,Master of Professional Studies in Data Science,M,F,T,NZ,,Auckland,Faculty of Science,http://www.science.auckland.ac.nz/en/about/subjects-and-specialisations/pg-subjects/data-science.html
+Auckland University of Technology,Master of Analytics,M,F,T,NZ,,Auckland,,http://www.aut.ac.nz/study-at-aut/study-areas/computer-mathematical-sciences/postgraduate-degrees/master-of-analytics
+University of Canterbury,Master of Applied Data Science,M,F,T,NZ,Chnterbury,Christchurch,School of Mathematics and Statistics,http://www.canterbury.ac.nz/future-students/qualifications-and-courses/masters-degrees/master-of-applied-data-science/
+Massey University,Data Science,B,F,T,NZ,,Auckland,,http://www.massey.ac.nz/massey/learning/programme-course-paper/programme.cfm?prog_id=92411&major_code=2913
+Massey University,Analytics,M,F,T,NZ,,Auckland,,http://www.massey.ac.nz/massey/learning/programme-course-paper/programme.cfm?prog_id=93537
+University of Otago,Business Data Science,M,F,T,NZ,,,Business,http://www.otago.ac.nz/business/study/postgraduate/otago052118.html
+Erasmus University,Big Data and Business Analytics,M,F,T,NL,,,,http://www.rsm.nl/master/msc-business-information-management/curriculum/starting-point/electives/big-data-and-business-analytics-block-5/
+Maastricht University,Artificial Intelligence,M,F,T,NL,,,,http://www.maastrichtuniversity.nl/web/Schools/DKE/TargetGroup/ProspectiveStudents/MastersProgrammes/ArtificialIntelligence.htm
+Maastricht University,Business Intelligence,M,F,T,NL,,,,http://www.maastrichtuniversity.nl/web/show/id=378498/langid=42
+Radboud Universiteit Nijmegen,Business Analysis and Modelling,M,F,T,NL,,,,http://www.ru.nl/businessadministration/study_programmes/master%27s_programmes_0/business_analysis/
+Eindhoven University of Technology(TU/e),Data Science in Engineering,M,F,T,NL,,Eindhoven,,http://www.tue.nl/en/education/tue-graduate-school/masters-programs/data-science-in-engineering/
+Utrecht University,Business Informatics,M,F,T,NL,,,Information and Computing Sciences,http://www.cs.uu.nl/education/
+Vrije Universiteit Amsterdam,Business Analytics,M,F,T,NL,,,,http://www.vu.nl/nl/opleidingen/masteropleidingen/opleidingenoverzicht/a-b/business-analytics/index.asp
+Autonomous Technological Institute of Mexico,Master of Science Data,M,F,T,MX,,Mexico City,,http://mcienciadatos.itam.mx/
+University of Aguascalientes,Data Science and Big Data,M,T,T,MX,,,,http://www.ucuauhtemoc.edu.mx/educacionadistancia/contenido/maestria-ciencia-datos-procesamiento-datos-masivos-big-data.html
+Mykolas Romeris University,Business Informatics,M,F,T,LT,,,,https://stdb.mruni.eu/studiju_programos_aprasas.php?id=2481&l=en
+Sangmyung University,Big Data Science,B,F,T,KR,,Seoul,,https://bigdata.smu.ac.kr
+BAICR,Data Science,M,F,T,IT,,,,http://www.baicr.it/palinsesto-geografico/data-science
+Polytechnic University Of Turin,Big Data Engineering,M,F,T,IT,,,,https://didattica.polito.it/portal/pls/portal/sviluppo.master.html?cds=73&sdu=32&a_acc=2013&p=presentazione&l=en
+University Of Milan-Bicocca,Business Intelligence & Decision Support Systems,M,F,T,IT,,,,http://www.bimasterbicocca.it/index.php?lang=en
+University Of Pisa,Business Informatics,M,F,T,IT,,,,http://www.unipi.it/index.php/ects/ects?ects_id=WBI-LM
+Chennai Mathematical Institute,Data Science,M,F,T,IN,,Siruseri,Mathematics,https://www.cmi.ac.in/teaching/courses.php?prog=mscdatascience
+Christ University,Data Science,M,F,T,IN,,Bangalore,Computer Science,https://christuniversity.in/sciences/computer-science/msc-in-data-science
+Christ University,Data Science,D,F,T,IN,,Bangalore,Computer Science,https://christuniversity.in/sciences/computer-science/phd-data-science
+Ben-Gurion University Of The Negev,Data Mining And Business Intelligence,M,F,T,IL,,Beersheba,,http://in.bgu.ac.il/en/engn/ise/Pages/Data_Mining_BI_En.aspx
+Dublin City University,Data Analytics,M,F,T,IE,,Dublin,,http://www.dcu.ie/prospective/deginfo.php?classname=MCM
+Dublin Institute Of Technology,Data Analytics,M,F,T,IE,,Dublin,,http://www.dit.ie/postgrad/programmes/dt228adt228bmscincomputingdataanalytics/
+Institute Of Technology Blanchardstown,Business Intelligence & Data Mining,M,F,T,IE,,Blanchardstown,,http://www.itb.ie/StudyatITB/bn518BID.html
+Irish Management Institute,Data Business,M,F,T,IE,,,,http://www.imi.ie/news-and-events/we-mean-business-with-data-business/
+National College Of Ireland,Data Analytics,C,F,T,IE,,,,http://www.ncirl.ie/Courses/Course-Details/course/Higher-Diploma-in-Science-in-Web-Technologies-HDSWTECH1
+"National University Of Ireland, Galway",Information Systems Management,M,F,T,IE,,,,http://www.nuigalway.ie/courses/taught-postgraduate-courses/information-systems-management.html
+University College Cork,Data Science and Analytics,M,F,T,IE,,,,http://www.ucc.ie/en/ckr49/
+University College Dublin,Business Analytics,M,F,T,IE,,,Business,http://www.smurfitschool.ie/businessanalytics/
+University College Dublin,Business Analytics,B,F,T,IE,,,Business,https://myucd.ucd.ie/course.do?courseID=139
+Cork Institute of Technology,Data Science and Analytics,M,F,T,IE,Munster,Cork,Mathematics,http://www.cit.ie/course/CRSDAAN9
+Cork Institute of Technology,Data Science and Analytics,D,F,T,IE,Munster,Cork,Mathematics,http://www.cit.ie/course/CRSDAAN8
+Chinese University of Hong Kong,Data Science and Business Statistics,M,F,T,HK,,,,http://www.sta.cuhk.edu.hk/mscdbs/DBSdefault.asp
+Hong Kong University of Science & Technology,Risk Management and Business Intelligence,B,F,T,HK,,,,http://www.rmbi.ust.hk/
+Lancaster University,Data Science,M,F,T,GB,,Lancaster,,http://www.lancaster.ac.uk/dsi/education/data-science-msc/
+Aston University,Business Analytics,M,F,T,GB,,,,http://www1.aston.ac.uk/aston-business-school/programmes/postgraduate/msc-programmes/msc-business-analytics-and-information-systems-management/
+Birmingham City University,Business Intelligence,M,F,T,GB,,,,http://www.bcu.ac.uk/courses/msc-business-intelligence
+Bournemouth University,Applied Data Analytics,M,F,T,GB,,,,http://courses.bournemouth.ac.uk/courses/postgraduate-degree/applied-data-analytics/msc/1975/course_content-course_content/
+"Brunel University, London",Business Intelligence and Social Media,M,F,T,GB,,London,,http://www.brunel.ac.uk/courses/postgraduate/N100PBUSINSM
+"Brunel University, London",Data Science and Analytics,M,F,T,GB,,London,,http://www.brunel.ac.uk/courses/postgraduate/data-science-and-analytics-msc
+City University London,Data Science,M,F,T,GB,,London,,http://www.city.ac.uk/courses/postgraduate/data-science-msc
+Coventry University,Data Science and Computational Intelligence,M,F,T,GB,,,,http://www.coventry.ac.uk/course-structure/2013/faculty-of-engineering-and-computing/postgraduate-degree-mba-msc-ma/data-science-and-computational-intelligence-msc/
+De Montfort University,Business Intelligence Systems And Data Mining,M,F,T,GB,,,,http://www.dmu.ac.uk/study/courses/postgraduate-courses/business-intelligence-systems-and-data-mining-msc.aspx
+"Goldsmiths, University of London",Data Science,M,F,T,GB,,,,http://www.gold.ac.uk/pg/msc-data-science/
+Imperial College London,Computing (Machine Learning),M,F,T,GB,,,,http://www3.imperial.ac.uk/computing/teaching/pg/mcsml
+Leeds Met,usiness Intelligence,M,F,T,GB,,,,http://courses.leedsmet.ac.uk/businessintelligencesas_msc
+Newcastle University,Cloud Computing for Big Data,D,F,T,GB,,,Computing Science / Mathematics and Statistics,http://teaching.ncl.ac.uk/ccfbd-cdt
+Robert Gordon University,Information Engineering,M,F,T,GB,,,,http://www.rgu.ac.uk/computing/study-options/postgraduate-taught-full-time/computing-information-engineering
+"Royal Holloway, University Of London",Data Science And Analytics,M,F,T,GB,,,,http://www.rhul.ac.uk/computerscience/prospectivestudents/postgraduatetaught/bigdata.aspx
+Sheffield Hallam University,Web and Cloud Computing,M,F,T,GB,,,,http://www.shu.ac.uk/prospectus/course/1064/content/
+Sheffield Hallam University,Big Data Analytics,M,F,T,GB,,,,http://www.shu.ac.uk/prospectus/course/1250/
+The University Of Edinburgh,Informatics,M,F,T,GB,,,,http://www.ed.ac.uk/schools-departments/informatics/postgraduate/msc/msc-informatics
+The University Of Manchester,Data And Knowledge Management,M,F,T,GB,,,,http://www.manchester.ac.uk/postgraduate/taughtdegrees/courses/atoz/course/?code=08345&pg=2
+University College London,Web Science And Big Data Analytics,M,F,T,GB,,,,http://www.cs.ucl.ac.uk/admissions/msc_web_science/
+University College London,Computational Statistics And Machine Learning,M,F,T,GB,,,,http://www.csml.ucl.ac.uk/courses/msc_csml/
+University College London,Machine Learning,M,F,T,GB,,,,http://www.csml.ucl.ac.uk/courses/msc_ml/
+University Of Bristol,Machine Learning And Data Mining,M,F,T,GB,,,,http://www.bristol.ac.uk/prospectus/postgraduate/2013/prog_details/ENGF/247
+University of Derby,Data Science,B,F,T,GB,,,,http://www.derby.ac.uk/courses/data-science-bsc-hons/
+University of Derby,Analytics,B,F,T,GB,,,,http://www.derby.ac.uk/courses/analytics-joint-honours/
+University of Derby,Information Technology - Analytics,B,F,T,GB,,,,http://www.derby.ac.uk/courses/information-technology-bsc-hons/
+University of Derby,Big Data Analytics,M,F,T,GB,,,,http://www.derby.ac.uk/courses/postgraduate/big-data-analytics-msc/
+University of Dundee,Data Science,M,F,T,GB,,,Computing,http://www.computing.dundee.ac.uk/newsandevents/newsdetail.asp?978
+University Of East Anglia,Knowledge Discovery And Data Mining,M,F,T,GB,,,,http://www.uea.ac.uk/study/postgraduate/taught-degree/detail/msc-knowledge-discovery-and-datamining
+University Of East London,Data Mining And Knowledge Management,M,F,T,GB,,,,http://www.uel.ac.uk/postgraduate/specs/datamining/
+University Of Essex,Big Data And Text Analytics,M,F,T,GB,,,,http://www.essex.ac.uk/csee/pg_taught/mscbigdata.aspx?goback=.gde_115439_member_193676745
+University Of Greenwich,Data Warehousing And Data Mining,M,F,T,GB,,,,http://www.cms.gre.ac.uk/postgraduate/dwadm.asp
+University of Kent,Business Analytics,M,F,T,GB,,,,http://www.kent.ac.uk/kbs/pg-taught/programmes/msc-mgmntsci-analytics.html
+University Of Leeds,Advanced Computer Science(Data Analytics),M,F,T,GB,,,Computer Science,http://www.engineering.leeds.ac.uk/computing/postgraduate/masters-advanced-computer-science/
+University of Leicester,Data Analysis for Business Intelligence,M,F,T,GB,,,,http://www2.le.ac.uk/study/postgrad/taught-campus/mathematics/analysis
+University Of Liverpool,Data Mining,M,F,T,GB,,,,http://www.liv.ac.uk/study/postgraduate/taught/faculty-of-science-and-engineering/school-of-electrical-engineering-electronics-and-computer-science/computer-science/mres/advanced-science-computer-sciences-data-mining-pathway/overview/
+University of Manchester,Business Analytic,M,F,T,GB,,,,http://www.mbs.ac.uk/masters/courses/analytics-operational-research-risk-analysis/index.aspx
+University of Nottingham,Data Science,B,F,T,GB,,,Computer Science,http://www.nottingham.ac.uk/ugstudy/courses/computerscience/bsc-data-science.aspx
+University of Southampton,Business Analytics and Management Sciences,M,F,T,GB,,,,http://www.southampton.ac.uk/postgraduate/pgstudy/programmes/management/msc_business_analytics_management_sciences.html
+University Of St Andrews,Applied Statistics And Data Mining,M,F,T,GB,,,,http://www.creem.st-and.ac.uk/datamining/
+University of Strathclyde,Business Analysis and Consulting,M,T,T,GB,,,,http://www.strath.ac.uk/mansci/prospectivestudents/mscbusinessanalysisandconsulting/
+University of Surrey,Business Analytics,M,F,T,GB,,,Business,http://www.surrey.ac.uk/postgraduate/courses/business/businessanalytics/
+University of Warwick,Business Analytics & Consulting,M,F,T,GB,,,,http://www.wbs.ac.uk/courses/postgraduate/business-analytics-and-consulting/
+University of Warwick,Data Science,B,F,T,GB,,,,http://www2.warwick.ac.uk/fac/sci/statistics/courses/datsci
+University Of Warwick,Data Analytics,M,F,T,GB,,,,http://www2.warwick.ac.uk/fac/sci/dcs/admissions/taughtmsc/da-msc/
+University Of Westminster,Business Intelligence And Analytics,M,F,T,GB,,,,http://www.westminster.ac.uk/courses/subjects/business-information-systems/postgraduate-courses/part-time-evening-only/p09epbua-msc-business-intelligence-and-analytics
+Data ScienceTech Institute,Applied MSc in Data Science,M,F,T,FR,,Paris,,https://www.datasciencetech.institute/msc-applied-data-science-and-big-data/
+Data ScienceTech Institute,Applied MSc in Data Engineering,M,F,T,FR,,Paris,,https://www.datasciencetech.institute/msc-applied-big-data-engineering/
+Data ScienceTech Institute,Advanced MSc in Artificial Intelligence,M,F,T,FR,,Paris,,https://www.datasciencetech.institute/advanced-msc-artificial-intelligence/
+Data ScienceTech Institute,Applied MSc in Data Science,M,F,T,FR,,Nice,,https://www.datasciencetech.institute/msc-applied-data-science-and-big-data/
+Data ScienceTech Institute,Applied MSc in Data Engineering,M,F,T,FR,,Nice,,https://www.datasciencetech.institute/msc-applied-big-data-engineering/
+Data ScienceTech Institute,Advanced MSc in Artificial Intelligence,M,F,T,FR,,Nice,,https://www.datasciencetech.institute/advanced-msc-artificial-i
+EISTI,Business Analytics,M,F,T,FR,,,,http://www.eisti.fr/en/master-business-analytics-architecture-data-exploration-and-optimization-adeo
+ENSAE Paris Tech,Data Science Specialisation,B,F,T,FR,,,,http://www.ensae.fr/formations-navhorizontale-172/statisticien-conomiste-navhorizontale-48/3me-anne-voies-de-spcialisation-formationsdiplome-96/data-science-cours-3a.html
+Telecom Paris Tech,Big Data,M,F,T,FR,,,,http://www.telecom-paristech.fr/formation-continue/masteres-specialises/big-data.html
+Telecom Sudparis,Automatic Data Processing,M,F,T,FR,,,,http://www.telecom-sudparis.eu/msc?idm=25
+Université Pierre Et Marie Curie,Artificial Intelligence And Decision Specialization,M,F,T,FR,,,,http://www.upmc.fr/en/education/diplomas/sciences_and_technologies/masters/master_of_computer_science/artificial_intelligence_and_decision_specialization_m2.html
+Aalto University,Machine Learning And Data Mining,M,F,T,FI,,,,http://www.aalto.fi/en/studies/education/programme/machine_learning_data_mining_master/
+University Of Helsinki,Algorithms And Machine Learning,M,F,T,FI,,,,http://www.cs.helsinki.fi/en/prospective/algorithms-and-machine-learning
+Université De Nantes,Data Mining And Knowledge Management,M,F,T,EU,,,,http://www.em-dmkm.eu/
+Barcelona School of Management,Management - Business Analytics,M,F,T,ES,,,,http://www.barcelonaschoolofmanagement.upf.edu/master-of-science-in-management-specialization-in-business-analytics
+Instituto de Empresa,Business Analytics and Big Data,M,F,T,ES,,,,http://mbd.ie.edu/
+Harbor.Space University,Data Science,B,F,T,ES,,Barcelona,,http://harbour.space/courses/data-science#Bachelor
+Harbor.Space University,Data Science,M,F,T,ES,,Barcelona,,http://harbour.space/courses/data-science#Master
+Barcelona GSE,Data Science Methodology,M,F,T,ES,,Barcelona,Economics,https://www.barcelonagse.eu/study/masters-programs/data-science-methodology
+Barcelona GSE,Data Science Decision Making,M,F,T,ES,,Barcelona,Economics,https://www.barcelonagse.eu/study/masters-programs/data-science-decision-making
+Universidad Rey Juan Carlos,Data Science,M,F,T,ES,,Madrid,,http://www.masterdatascience.es/
+Universitat Pompeu Fabra,Intelligent Interactive Systems,M,F,T,ES,,,,http://www.upf.edu/iis/program.html
+Universities Of Alicante,Machine Learning And Data Mining,M,F,T,ES,,,,http://www.iuii.ua.es/MLDM/overview.php
+University of Barcelona,Data Science,M,F,T,ES,,Barcelona,,http://www.barcelonagse.eu/data-science-master-degree.html
+University of Oviedo,Master in Soft Computing and Intelligent Data Analysis,M,F,T,ES,Asturias,Mieres,European Centre for Soft Computing,http://www.softcomputing.es/metaspace/portal/5/254-about
+Universidad de Alcalá,Master en Data Science,M,T,T,ES,ES,Madrid,Informática,https://www.master-data-scientist.com/
+Universidad de Alcalá,Master en Business Intelligence y Data Science,M,F,T,ES,ES,Madrid,Informática,https://www.master-bigdata.com/
+Universidad Nebrija,Master en Data Science,M,T,F,ES,,,Informática,https://masterdatascience.online/
+Aalborg University,Data Engineering,M,F,T,DK,,,,http://www.studyguide.aau.dk/programmes/postgraduate/55777/
+Aarhus University,Industrial Phd In Big Data Analysis,D,F,T,DK,,,,http://icoa.au.dk/news/single/artikel/seeking-candidate-for-industrial-phd/
+Aarhus University,Business Intelligence,M,F,T,DK,,,,http://kandidat.au.dk/en/economics-and-business-administration-business-intelligence/
+Technical University of Denmark,Data Science,M,F,T,DK,,,Department of Applied Mathematics and Computer Science,http://www.compute.dtu.dk/english/education/Data-Science-Big-Data
+Otto Von Guericke University Magdeburg,Data And Knowledge Engineering,M,F,T,DE,,,,http://www.uni-magdeburg.de/unimagdeburg/en/Education/Study+Guide/Study+Programmes+with+English+as+Language+of+Instruction/Data+and+Knowledge+Engineering.html
+Universität Mannheim,Mannheim Master in Data Science (MMDS),M,F,T,DE,,Mannheim,,http://www.wim.uni-mannheim.de/en/the-school/degree-programs/msc-in-data-science/
+TU Dortmund,Data Analysis and Management,B,F,T,DE,,,Statistics,http://www.statistik.tu-dortmund.de/701.html
+TU Dortmund,Data Science,M,F,T,DE,,,Statistics,http://www.statistik.tu-dortmund.de/703.html
+Universität Konstanz,Information Engineering,M,F,T,DE,,,,http://www.informatik.uni-konstanz.de/en/interestedparties/master/
+Hochschule der Medien Stuttgart,Data Science and Business Analytics,M,T,T,DE,,Stuttgart,Weiterbildungszentrum,https://www.hdm-weiterbildung.de/berufsbegleitende-masterangebote/data-science-and-business-analytics
+Queen's University,Management Analytics,M,F,T,CA,,,Business,http://business.queensu.ca/grad_studies/mma/
+Simon Fraser University,Big Data,M,F,T,CA,,Burnaby,School of Computing Science,http://www.sfu.ca/computing/prospective-students/graduate-students/academic-programs/bigdata.html
+University Of Alberta,Statistical Machine Learning,M,F,T,CA,,,,https://www.cs.ualberta.ca/graduate-students/msc-program-requirements/statistical-machine-learning
+University of the Fraser Valley,Data Analysis,C,F,T,CA,,,Mathematics and Statistics,http://www.ufv.ca/math/data-analysis/
+York University,Business Analytics,M,F,T,CA,,,,http://www.schulich.yorku.ca/client/schulich/Schulich_LP4W_LND_WebStation.nsf/page/MSc+in+Business+Analytics?OpenDocument
+Mackenzie Presbyterian Institute,Big Data Analytics,M,F,T,BR,,,,http://www.mackenzie.br/27582.html
+Virtual University of São Paulo State, Data Science,B,T,T,BR,,,Eixo Computação,https://univesp.br/cursos/bacharel-em-ciencia-de-dados
+Deakin University,Business Analytics,M,F,T,AU,,,,http://www.deakin.edu.au/future-students/courses/course.php?course=M760&stutype=local&keywords=information+systems
+James Cook University,Master of Data Science,M,T,F,AU,,,,https://online.jcu.edu.au/online-courses/master-data-science
+Macquarie University,Data Science,M,F,T,AU,,,,http://courses.mq.edu.au/postgraduate/master/master-of-data-science
+University of South Australia,Data Science,M,F,T,AU,,Mawson Lakes,,http://programs.unisa.edu.au/public/pcms/program.aspx?pageid=3144&sid=5278
+University of Technology Sydney,Analytics,D,F,T,AU,,,,https://www.uts.edu.au/research-and-teaching/our-research/advanced-analytics-institute/research-student-opportunities-0
+Vienna University of Economics and Business,Information Systems,M,F,T,AT,,,Business,http://www.wu.ac.at/programs/en/master/is/structure/firstyear
+University of Vienna,Data Science Specialization,M,F,T,AT,,,Computer Science,http://cs.univie.ac.at/home/courses-of-study/
+
+
+
+
+
+collegeList = ["A. D. Patel Institute of Technology",
+        "A.K.G. Engineering College",
+        "A.R.J. College of Engineering and Technology",
+        "ABES Engineering College",
+        "ACE Engineering College",
+        "AES American Embassy School",
+        "AIMIT",
+        "AIT",
+        "AMC Engineering College",
+        "APS College of Engineering",
+        "AQJ College",
+        "ASM Institute of Business Management and Research",
+        "Aalim Muhammed Salegh College",
+        "Aarupadai Veedu Institute of Technology",
+        "Acharya Institute of Technology",
+        "Acharya N.G. Ranga Agricultural University",
+        "Acharya Nagarjuna Vishwavidhyalayamu",
+        "Acropolis Institute of Technology and Research",
+        "Acropolis Technical Campus",
+        "Adhiyamaan College of Engineering",
+        "Adi Shankara Institute of Engineering and Technology",
+        "Adikavi Nannaya University",
+        "Aditanar College of Arts and Science",
+        "Aditya Institute of Technology and Management",
+        "Advanced Institute of Technology and Management",
+        "Agra College",
+        "Ajmer Institute of Technology",
+        "Akkineni Nageswara Rao College",
+        "Al-Ameen Educational and Medical Foundation",
+        "Alagappa University College of Education",
+        "Alard Institute of Management Sciences (AIMS)",
+        "Aligarh Muslim University",
+        "All India Institute of Medical Sciences",
+        "All Saints College of Technology",
+        "All Saints  College",
+        "Allahabad Agricultural Institute",
+        "Allahabad University",
+        "Allana Inistitute Of Management Sciences",
+        "Allana Institute of Management Studies",
+        "Alpha College of Engineering",
+        "Amal Jyothi College of Engineering",
+        "Ambala College of Engineering",
+        "Ambedkar Institute of Technology",
+        "American School of Bombay",
+        "Amity School of Engineering and Technology - New Delhi",
+        "Amity University Lucknow Campus",
+        "Amity University Haryana",
+        "Amrapali Institute of Management and Computer Applications",
+        "Amrapali Institute of Technology and Sciences",
+        "Amravati University",
+        "Amrita Vishwa Vidyapeetham - Coimbatore",
+        "Amrita Vishwa Vidyapeetham - Amritapuri",
+        "Amrita Vishwa Vidyapeetham - Bangalore",
+        "Amrita School of Arts and Sciences - Mysore",
+        "Amrita School of Arts and Sciences - Kochi",
+        "Amrutvahini College of Engineering",
+        "Anand Institute of Higher Technology",
+        "Anand Institute of Information Science",
+        "Anbanathapuram Vahaira Charities College - A.V.C.",
+        "Andhra University",
+        "Angel College of Engineering and Technology",
+        "Anil Neerukonda Institute of Technology and Sciences - ANITS",
+        "Anja Polytechnic College",
+        "Anjalai Ammal Mahalingam Engineering College",
+        "Anjuman College of Engineering and Technology",
+        "Anna University",
+        "Annai Mathammal Sheela Engineering College",
+        "Annai Teresa Magalir Palkalaikazhgam",
+        "Annamacharya Institute of Technology and Sciences",
+        "Annamalai University",
+        "Anurag group of Institutions",
+        "Apeejay College of Engineering",
+        "Apeejay Institute of Technology",
+        "Apex Institute of Management and Science",
+        "Appa Institute of Engineering and Technology",
+        "Arasu Engineering College",
+        "Army Institute of Technology",
+        "Arul Anandar College",
+        "Arya College of Engineering and Information Technology",
+        "Arya Institute of Engineering and Technology",
+        "Aryabhatta Institute of Engineering and Management",
+        "Asansol Engineering College",
+        "Asia Pacific Institute of Information Technology",
+        "Assam Agricultural University",
+        "Assam Engineering College",
+        "Assam University",
+        "Atal Birahi Vajpayee Indian Institute of Information Technology and Management",
+        "Atharva College of Engineering",
+        "Atmiya Institute of Technology and Science",
+        "Atria Institute of Technology",
+        "Auden Technology and Management Academy",
+        "Aurora P. G. College",
+        "Aurora Engineering College",
+        "Avanthi Institute of Engineering and Technology",
+        "Avinashilingam Institute for Home Science and Higher Education for Women",
+        "Awadhesh Pratap Singh Vishwavidyalaya",
+        "Ayya Nadar Janaki Ammal College",
+        "B P Poddar Institute of Management and Technology",
+        "B. P. Poddar Institute of Management and Technology",
+        "B. V. B. College of Engineering and Technology",
+        "B.N. Mandal University",
+        "B.S. Anangpuria Institute of Technology and Management",
+        "B.V.B. College of Engineering and Technology",
+        "B.V.C. Engineering College",
+        "BBS College of Engineering and. Technology",
+        "BK Birla Institue of Engineering and Technology",
+        "BLDEACET",
+        "BMS College of Engineering (BMSCE)",
+        "BMS Institute of Technology (BMSIT)",
+        "BNM Institute of Technology",
+        "BSA College of Engineering and Technology",
+        "BSA Crescent Engineering College",
+        "Baba Banda Singh Bahadur Engineering College",
+        "Baba Farid University of Health Sciences",
+        "Baba Saheb Ambedkar Institute of Technology and Management",
+        "Babaria Institute of Technology",
+        "Babasaheb Bhimrao Ambedkar Bihar University",
+        "Babasaheb Bhimrao Ambedkar University",
+        "Babu Banarasi Das National Institute of Technology and Management",
+        "Babu Banarsi Das Institute of Technology",
+        "Babu Mohanlal Arya Smarak Engineering College",
+        "Bahadhur Shastri National Academy of Administration",
+        "Baharati Vidyapeeth College of Engineering",
+        "Bahai Institute for Higher Education",
+        "Baldev Ram Mirdha Institute of Technology",
+        "Balaji Institute of Technology &amp; Science",
+        "Banaras Hindu University",
+        "Banarsidas Chandiwala Institute Of Information Technology",
+        "Banasthali Vidyapith for Women",
+        "Bangalore Institute of Technology",
+        "Bangalore University",
+        "Bankura Unnayani Institute of Engineering",
+        "Bannari Amman Institute of Technology",
+        "Bansal College of Engineering",
+        "Bansal Institute of Science and Technology",
+        "Bansal School of Engineering and Technology",
+        "Bapuji Institute of Engineering and Technology",
+        "Bapuji Institute of Hi-Tech Education",
+        "Bapurao Deshmukh College of Engineering",
+        "Barkatullah Vishwavidyalaya",
+        "Basaveshwar Engineering College - Bagalkot",
+        "Beant College of Engineering and Technology",
+        "Bellary Engineering College",
+        "Bengal College of Engineering and Technology",
+        "Bengal Engineering College",
+        "Bengal Engineering and Science University",
+        "Bengal Institute of Technology",
+        "Berhampur University",
+        "Bhajarang Engineering College",
+        "Bharat Institute of Technology",
+        "Bharath Institute of Science and Technology",
+        "Bharath Niketan Engineering College",
+        "Bharathiar University",
+        "Bharathidasan University",
+        "Bharati Vidyapeeth",
+        "Bharati Vidyapeeth Institute of Management and IT",
+        "Bharati Vidyapeeth University Institute of Management and Research",
+        "Bharatiya Vidya Bhavans S. P. Jain Institute of Management and Research (SPJIMR)",
+        "Bhartiya Pashu-Chikitsa Anusandhan Sansthan",
+        "Bhatkhande Music Institute",
+        "Bhavnagar University",
+        "Bhilai Institute of Technology",
+        "Bhiwani Institute of Technology and Sciences",
+        "Bhoj Reddy Engineering College for Women",
+        "Bhoomaraddi College of Engineering and Technology (BVBCET)",
+        "Bhopal Engineering College",
+        "Bidhan Chandra Krishi Viswavidyalaya",
+        "Bihar Yoga Bharati",
+        "Biju Patnaik University of Technology",
+        "Birbhum Institute of Engineering and Technology",
+        "Birla Institute of Applied Science",
+        "Birla Institute of Technology - Ranchi",
+        "Birla Institute of Technology and Science - BITS Pilani",
+        "Birla Institute of Technology",
+        "Birsa Agricultural University",
+        "Birsa Institute of Technology",
+        "Bishop Heber College",
+        "Biyani Institute of Science and Management - BISMA",
+        "Brindavan College of Engineering",
+        "Bundelkhand Institute of Engineering and Technology",
+        "Bundelkhand University",
+        "C K Pithawala College of Engineering and Technology",
+        "C U Shah College of Engineering and Technology",
+        "C.B. Patel Computer College",
+        "CET Karnataka Information and Counselling",
+        "CIT-Changa",
+        "CMR College of Engineering Technology (CMRCET)",
+        "CMR College of Engineering and Technology",
+        "CMR Institute of Technology",
+        "CSI College Of Engineering (CSICE)",
+        "CV Raman College of Engineering",
+        "CVR College of Engineering",
+        "Calcutta Institute of Engineering and Management",
+        "Calcutta Institute of Technology",
+        "Canara Engineering College",
+        "Chandubhai S Patel Institute of Technology",
+        "Central Agricultural University",
+        "Central Institute of English and Foreign Languages",
+        "Central Institute of Fisheries Education",
+        "Central Institute of Higher Tibetan Studies",
+        "Centre for Development of Advanced Computing",
+        "Centre for Environmental Planning and Technology",
+        "Chaitanya Bharati Institute of Technology",
+        "Chaityana Institute of Science and Technology",
+        "Chamelidevi Institute of Technology and Management",
+        "Chandigarh Engineering College",
+        "Chandra Shekhar Azad University of Agriculture and Technology",
+        "Chaudhary Charan Singh Haryana Agricultural University",
+        "Chaudhary Charan Singh University",
+        "Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishwavidyalaya",
+        "Chennai Mathematical Institute",
+        "Cherraans Arts and Science College",
+        "Chettinad College of Engineering and Technology",
+        "Chhattisgarh Swami Vivekanand Technical University",
+        "Chhatrapati Shahu Ji Maharaj University",
+        "Chhatrapati Shivaji Institute of Technoloty",
+        "Chikhli College",
+        "Chinmaya Institute of Technology",
+        "Chitkara Educational Trust",
+        "Chouksey Engineering College",
+        "Christ College",
+        "Christ University",
+        "Christu Jayanthi Jubilee College",
+        "Co-operative Institute of Technology - Vadakara",
+        "Cochin University of Science and Technology - Kerala",
+        "Coimbatore Institute of Engineering and Technology",
+        "Coimbatore Institute of Technology",
+        "College of Engineering and Management",
+        "College of Engineering and Technology",
+        "College of Engineering Kallooppara",
+        "College Of  Engineering Karunagapally",
+        "College of Engineering Poonjar",
+        "College of Engineering Roorkee",
+        "College of Engineering Thalassery",
+        "College of Engineering Trivandrum",
+        "College of Engineering",
+        "College of Technology And Engineering",
+        "Cummins College of Engineering for Women",
+        "D. G. Ruparel College",
+        "D.G. Vaishnav College - Chennai",
+        "D.N.R College",
+        "DAV College of Engineering and Technology",
+        "DAV Institute of Engineering and Technology",
+        "DB Pampa College",
+        "DES Navinchandra Mehta Institute of Technology and Development",
+        "DMCE Online",
+        "DRK Institute of Science and Technology",
+        "DVR college of Engineering and Technology",
+        "Dadi Institute of Engineering and Technology",
+        "Dakshina Bharat Hindi Prachar Sabha",
+        "Darda Engineering College Yavatmal",
+        "Dayalbagh Educational Institute",
+        "Dayananda Sagar Institutions",
+        "Deccan College of Engineering and Technology",
+        "Deenbandhu Chhotu Ram University of Science and Technology",
+        "Deendayal Upadhyay Gorakhpur University",
+        "Deepshikha College of Technical Education",
+        "Dehradun Institute of Technology",
+        "Delhi College of Engineering",
+        "Delhi University",
+        "Delhi Vishwavidyalaya",
+        "Deogiri College Aurangabad",
+        "Dev Sanskriti Vishwavidyalaya",
+        "Devanga Arts College",
+        "Devi Ahilya Vishwavidyalaya",
+        "Devineni Venkata Ramana and Dr. HS Mic College of Technology",
+        "Dhanalakshmi College of Engineering",
+        "Dharmsinh Desai University",
+        "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)",
+        "Dhruva College of Management",
+        "Dibrugarh University",
+        "Dnyaneswar Vidyapeeth IST ",
+        "Doctor B.R. Ambedkar Open University",
+        "Doctor Babasaheb Ambedkar Technological University",
+        "Doctor Balasaheb Sawant Konkan Krishi Vidyapeeth",
+        "Doctor Bhim Rao Ambedkar University",
+        "Doctor Harisingh Gour Vishwavidyalaya",
+        "Doctor Panjabrao Deshmukh Krishi Vidyapeeth",
+        "Doctor Ram Manohar Lohia Awadh University",
+        "Doctor Yashwant Singh Parmar University of Horticulture and Forestry",
+        "Don Bosco Institute of Technology",
+        "Dr G R Damodaran College of Science",
+        "Dr MGR College",
+        "Dr Mahalingam College of Engineering and Technology",
+        "Dr Paul Raj Engineering College",
+        "Dr. B.C. Roy Engineering College",
+        "Dr. Babasaheb Ambedkar Marathwada University",
+        "Dr. D. Y. Patil College of Engineering",
+        "Dr. D. Y. Patil Institute Of Management and Research",
+        "Dr. Kedar Nath Modi Institute of Engineering and Technology",
+        "Dr. M.G.R Engineering College",
+        "Dr. Navalar Nedunchezhian College Of Engineering",
+        "Dr. Pauls Engineering College",
+        "Dr. Ram Manohar Lohia Institute",
+        "Dr. Sivanthi Aditanar College of Engineering",
+        "Dr. T. Thimmaiah Institute of Technology",
+        "Dr.M.G.R University",
+        "Dravidian University",
+        "Dronacharya College of Engineering",
+        "Durgapur Institute of Advanced Technology and Management",
+        "ERandDCI Institute of Technology",
+        "East Point College of Engineering and Technology",
+        "Easwari Engineering College",
+        "Einstein College of Engineering",
+        "Engineering College Ajmer",
+        "Engineering College in Patiala",
+        "Engineering College of Kota",
+        "Engineering College",
+        "Erode Sengunthar Engineering College",
+        "Ethiraj College",
+        "FET",
+        "FORE School of Management",
+        "Faculdades Integradas Logatti",
+        "Fakir Mohan University",
+        "Farah Institute of Computer Science",
+        "Federal Institute of Science and Technology",
+        "Fergusson College - Pune",
+        "Feroz Gandhi Institute of Engineering and Technology",
+        "Forest Research Institute",
+        "Forte Institute of Technology",
+        "Fr. Conceicao Rodrigues College of Engineering",
+        "Future Institute of Engineering and Management",
+        "Gujarat Forensic Science University",
+        "G H Raisoni Institute of Information Technology",
+        "G. B. Pant Engineering College - Uttar Pradesh",
+        "G. D. Goenka World Institute - Lancaster University",
+        "G. Narayanamma Institute of Technology and Science",
+        "G. Pulla Reddy Engineering College",
+        "G. Pullaiah College of Engineering and Technology",
+        "G.H. Patel College of Engineering and Technology",
+        "G.V.M. Institute of Technology and Management - GVMITM",
+        "GATES Institute of Technology",
+        "GLA Institute of Technology and Management",
+        "GLS Institute of Computer Technology",
+        "GMR Institute of Technology (GMRIT)",
+        "Gnanamani College Of Engineering",
+        "GS Medical College",
+        "GVP College of Engineering",
+        "Galgotia Institute of Management and Technology",
+        "Galgotias College of Engineering and Technology",
+        "Ganadipathy Tulsis Engineering College",
+        "Gandhi Institute for Technology",
+        "Gandhi Institute of Engineering and Technology (GIET)",
+        "Gandhi Institute of Engineering and Technology",
+        "Gandhi Institute of Technology and Management",
+        "Gandhigram Rural Institute",
+        "Ganpat University",
+        "Garden City College",
+        "Gauhati University",
+        "Gauthami Degree College For Women",
+        "Gayatri Vidya Parishad College of Engineering",
+        "Geeta Institute Of Management And Technology",
+        "Geetanjali Institute of Technical Studies",
+        "Gitam Institute of Technology and Science",
+        "Gitam University",
+        "Gitarattan International Business School",
+        "Global Academy of Technology",
+        "Global Institute of Management and Technology (GIMT)",
+        "Global Institute of Technology",
+        "Goa Institute of Management",
+        "Goa University",
+        "Godavari Institute of Engineering and Technology",
+        "Gogte Institute of Technology",
+        "Gojan School of Business and Technology",
+        "Gokaraju Rangaraju Institute of Engineering and Technology",
+        "Gokhale Institute of Politics and Economics",
+        "Gopal Ramalingam Memorial Engineering College",
+        "Government College Of Engineering - Pune",
+        "Government College of Arts",
+        "Government College of Engineering",
+        "Government College of Engineering Auranagabd",
+        "Government College of Engineering and Ceramic Technology",
+        "Government College of Engineering and Leather Technology",
+        "Government College of Engineering",
+        "Government Engineering College",
+        "Government College of Technology",
+        "Government Engineering College Ajmer",
+        "Government Polytechnic Institute",
+        "Government Polytechnic",
+        "Govind Ballabh Pant Krishi Evam Praudyogik Vishwavidyalaya",
+        "Govt. Mahila Engineering College",
+        "Graphic Era Institute of Technology",
+        "Great Lakes Institute of Management",
+        "Greater Noida Institute of Technology",
+        "Gudlavalleru Engineering College",
+        "Gujarat Agricultural University",
+        "Gujarat Ayurved University",
+        "Gujarat University",
+        "Gujarat Vidyapith",
+        "Gulbarga University",
+        "Gulzar Group Of Institutes",
+        "Gurgaon Institute of Technology and Management",
+        "Guru Ghasidas University",
+        "Guru Gobind Singh College of Engineering and Technology",
+        "Guru Gobind Singh Indraprastha University",
+        "Guru Jambeshwar University",
+        "Guru Nanak Dev University",
+        "Guru Nanak Enginerring College",
+        "Guru Ramdas Khalsa Institite of Technology",
+        "Guru Tegh Bahadur Institute of Technology-GTBIT",
+        "Gurukula Kangri Vishwavidyalaya",
+        "Gurunanak Institute of Technology",
+        "Gyan Ganga Institute of Technology and Sciences",
+        "Gyan Vihar School of Engineering and Technology",
+        "H.K.R.H. College",
+        "HKBK College of Engineering",
+        "HMS Institute of Technology",
+        "Haldia Insitute of Technology",
+        "Harcourt Butler Technological Institute - Kanpur",
+        "Hemchandracharya North Gujarat University",
+        "Hemwati Nandan Bahuguna Garhwal University",
+        "Heritage Institute of Technology",
+        "Hi-Point College of Engineering and Technology",
+        "Himachal Pradesh University",
+        "Hindustan College of Engineering",
+        "Hindustan College of Science and Technology",
+        "Hitkarini College of Engineering and Technology",
+        "Holy Mary Institute of Technology and Science",
+        "Hyderabad Central University",
+        "IBS Ahmedabad",
+        "IBS Hyderabad",
+        "ICFAI Business School",
+        "ICFAI National College",
+        "ICFAI School of Information Technology",
+        "ICFAI University",
+        "IEC College of Engineering and Technology",
+        "IMPS College of Engineering and Technology - IMPSCET",
+        "IMS College Of Engineering",
+        "INMANTEC Integrated Academy of Management and Technology",
+        "Ilahia College of Engineering and Technology",
+        "India Business School ",
+        "Indian Agricultural Research Institute",
+        "Indian Association for the Cultivation of Science",
+        "Indian Business Academy",
+        "Indian Institute of Foreign Trade",
+        "Indian Institute of Information Management",
+        "Indian Institute of Information Technology",
+        "Indian Institute of Information Technology - IIIT Allahabad",
+        "Indian Institute of Information Technology - IIIT Bangalore",
+        "Indian Institute of Information Technology - IIIT Hyderabad",
+        "Indian Institute of Information Technology - IIIT Kolkata",
+        "Indian Institute of Information Technology - IIIT Pune",
+        "Indian Institute of Information Technology Jabalpur",
+        "Indian Institute of Information Technology and Management - Kerala",
+        "Indian Institute of Information Technology and Management",
+        "Indian Institute of Management",
+        "Indian Institute of Rural Management",
+        "Indian Institute of Science",
+        "Indian Institute of Science and Information Technology",
+        "Indian Institute of Science - IISc Bangalore",
+        "Indian Institute of Science Education and Research Pune",
+        "Indian Institute of Space Science and Technology",
+        "Indian Institute of Social Welfare and Business Management",
+        "Indian Institute of Technology - IIT Bhubaneswar",
+        "Indian Institute of Technology - IIT Bombay",
+        "Indian Institute of Technology - IIT Delhi",
+        "Indian Institute of Technology - IIT Guwahati",
+        "Indian Institute of Technology - IIT Kanpur",
+        "Indian Institute of Technology - IIT Kharagpur",
+        "Indian Institute of Technology - IIT Madras",
+        "Indian Institute of Technology - IIT Powaii",
+        "Indian Institute of Technology - IIT Roorkee",
+        "Indian Institute of Technology - IIT Patna",
+        "Indian Institute of Technology - IIT Ropar",
+        "Indian Institute of Technology - IIT Hyderabad",
+        "Indian Institute of Technology - IIT Gandhinagar",
+        "Indian Institute of Technology - IIT Rajasthan",
+        "Indian Institute of Technology - IIT Mandi",
+        "Indian Institute of Technology - IIT Indore",
+        "Indian Institute of Technology - IIT BHU",
+        "Indian School of Business",
+        "Indian School of Mines - Dhanbad",
+        "Indian Statistical Institute",
+        "Indira College of Engineering and Management",
+        "Indira Gandhi Institute of Development and Research",
+        "Indira Gandhi Institute of Technology",
+        "Indira Gandhi Krishi Vishwavidyalaya",
+        "Indira Gandhi National Open University",
+        "Indira Gandhi Rashtriya Mukta Vishwavidyalaya",
+        "Indira Institute of Management",
+        "Indraprastha Institute of Information Technology",
+        "Indira Kala Sangeet Vishwavidyalaya",
+        "Indo Global Engineering",
+        "Indore Institute of Science and Technology",
+        "Indore Professional Studies Academy",
+        "Indur Institute of Engineering and Technology",
+        "Infant Jesus College of Engineering",
+        "Institute of Informatics and Communication",
+        "Institute for Development and Research in Banking Technology",
+        "Institute for Electronic Governance",
+        "Institute of Advanced Computer and Research",
+        "Institute of Advanced Studies in Education",
+        "Institute of Aeronautical Engineering",
+        "Institute of Armament Technology",
+        "Institute of Engineering and Science IPS Academy",
+        "Institute of Engineering and Technology",
+        "Institute of Foreign Trade and Management",
+        "Institute of Industrial and Computer Management and Research A.T.S.S.  I.I.C.M.R.",
+        "Institute of Information Technology and Management",
+        "Institute of Management Research and Development",
+        "Institute of Management Research",
+        "Institute of Management Studies Career Development and Research",
+        "Institute of Management Studies Noida",
+        "Institute of Management Studies- Ghaziabad",
+        "Institute of Management Technology",
+        "Institute of Management and Research",
+        "Institute of Mathematical Sciences - IMSc Chennai",
+        "Institute of Productivity and Management",
+        "Institute of Productivity and Management",
+        "Institute of Road and Transport Technology",
+        "Institute of Rural Management Anand",
+        "Institute of Technology and Management",
+        "Institute of Technology and Science (ITS)",
+        "Institute of Technology and Marine Engineering",
+        "Integral University",
+        "International Institute for Population Sciences",
+        "International Institute for Special Education",
+        "International Institute of Information Technology",
+        "International Institute of Management Science",
+        "International Management Institute",
+        "International School Of Informatics and Management",
+        "International School of Business and Research",
+        "International School of Business and Media",
+        "International School of Informatics and Management",
+        "International School of Information Management",
+        "International School of Management Excellence",
+        "Invertis Institute of Engineering and Technology",
+        "Ishwarchand Vidya Sagar Institute of Technology and Management",
+        "Islamiah Institute of Technology",
+        "Islamic University of Science and Technology",
+        "J.B. Institute of Engineering and Technology",
+        "J.T. Mahajan College of Engineering",
+        "Jay Sriram College of Technology",
+        "JIS College of Engineering",
+        "JM Institute of Technology",
+        "JNTU College of Engineering",
+        "JSPMs Abacus Institute Of Computer Application",
+        "JSS Academy of Technical Education",
+        "JSS College for Women",
+        "Jabalpur Engineering College",
+        "Jadavpur University - Jadavpur University",
+        "Jagan Institute of Management Studies",
+        "Jagan Nath University",
+        "Jagannath Institute for Technology and Management",
+        "Jagarlamudi Kuppuswamy Chowdary College",
+        "Jai Narain Vyas University",
+        "Jai Prakash Vishwavidyalaya",
+        "Jain University",
+        "Jaipur Engineering College and Research Centre",
+        "Jaipur Engineering College",
+        "Jaipuria Institute of Management",
+        "Jamia Hamdard - Delhi",
+        "Jamia Millia Islamia",
+        "Jansons School of Business",
+        "Jansons Institute of Technology",
+        "Jawaharlal Institute of Technology",
+        "Jawaharlal Nehru Centre for Advanced Scientific Research",
+        "Jawaharlal Nehru Engineering College - JNEC",
+        "Jawaharlal Nehru Krishi Vishwavidyalaya",
+        "Jawaharlal Nehru Technological University",
+        "Jawaharlal Nehru Technological University",
+        "Jawaharlal Nehru University - JNU Delhi",
+        "Jawaharlal Nehru Vishvavidyalaya",
+        "Jaya College of Arts and Science",
+        "Jaya Engineering College",
+        "Jayam College of Engineering and Technology",
+        "Jayawant Institute of Computer Applications",
+        "Jayawant Shikshan Prasarak Mandal",
+        "Jayawantrao Sawant College of Engineering",
+        "Jaypee Institute of Information Technology",
+        "Jaypee University of Information Technology",
+        "Jaypee University of Engineering &amp; Technology",
+        "Jehangirabad Institute of Technology",
+        "Jeppiaar Engineering College",
+        "Jerusalem College of Engineering",
+        "Jind Institute of Engineering and Technology",
+        "Jiwaji University",
+        "Jnana Vikas Institute of Technology",
+        "Jodhpur Engineering College and Research Centre",
+        "Jodhpur Institute of Engineering and Technology",
+        "Jorhat Engineering College",
+        "Jyothi Engineering College",
+        "Jyothi Nivas College",
+        "Jyothishmathi Institute of Technology and Science",
+        "K L University",
+        "K. J. Somaiya College of Engineering",
+        "K. K. Wagh Institute of Engineering Education and Research",
+        "K. R. School of Information Technology",
+        "K. S. R. College of Technology - Tamilnadu",
+        "K.C. College of Engineering",
+        "KCG College of Technology",
+        "KGiSL Institute of Information Management",
+        "KGiSL Institute of Technology",
+        "KIIT College of Engineering",
+        "KIIT University",
+        "KLE Society College of Engineering and Technology",
+        "KLN College of Engineering",
+        "KLN College of Information Technology - KLNCIT",
+        "KS Institute of Technology - KSIT",
+        "KSR College of Technology",
+        "KSRM College of Engineering",
+        "KVM College of Engineering and Information Technology",
+        "Kakatiya Institute of Technology and Science",
+        "Kakatiya University",
+        "Kakinada Institute of Engineering and Technology",
+        "Kalasalingam University",
+        "Kalikata Viswavidyalaya",
+        "Kalinga Institute of Industrial Technology - Bhubaneshwar",
+        "Kalyani Government Engineering College",
+        "Kamala Institute of Technology and Science",
+        "Kamaraj College of Engineering and Technology",
+        "Kameshwar Singh Darbhanga Sanskrit University",
+        "Kamla Nehru Institute of Technology - KNIT",
+        "Kanchi Pallavan Enginnering College",
+        "Kandula Sreenivasa Reddy Memorial College Of Engineering",
+        "Kannada University",
+        "Kannur University",
+        "Kanpur Institute of Technology",
+        "Karnatak University",
+        "Karnataka State Open University",
+        "Karpaga Vinayaga College of Engineering and Technology",
+        "Karpagam Arts and Science College",
+        "Karpagam College of Engineering",
+        "Karpagam Institute of Technology",
+        "Karpagam University",
+        "Karunya University",
+        "Kathir College of Engineering - KCE",
+        "Kautilya Institute of Technology and Engineering",
+        "Kavikulguru Institute of Technology and Science",
+        "Kavikulguru Kalidas Sanskrit Vishwavidyalaya",
+        "Kedar Nath Ginni Devi Modi Engineering College",
+        "Kelkar Education Trust Vinayak Ganesh Vaze College",
+        "Kerala University",
+        "Kerala Agricultural University",
+        "Keshav Mahavidyalaya",
+        "Keshav Memorial Institute of Technology",
+        "Khadir Mohideen College",
+        "Khalsa College for Women",
+        "Kings College of Engineering",
+        "Kings Engineering College",
+        "K.I.T College Of Engineering",
+        "Koneru Lakshmaiah College of Engineering",
+        "Kongu Arts and Science College",
+        "Kongu Engineering College",
+        "Kongunadu Arts and Science College",
+        "Kota Open University",
+        "Koti Womens College",
+        "Krishna Engineering College",
+        "Krishna Institute of Engineering and Technology",
+        "Krishnasamy College of Engineering and Technology",
+        "Kristu Jyothi College of Management and Technology",
+        "Kumaraguru College of Technology - KCT",
+        "Kumaun University",
+        "Kurukshetra University - Haryana",
+        "Kuvempu University",
+        "LBS Institute of Technology for Women",
+        "LBS PG College",
+        "LD College of Engineering",
+        "LDRP Institute of Technology and Research",
+        "LJ Institute of Computer Applications - LJMCA",
+        "Lady Shriram CC",
+        "Lakshmi Narain College of Technology - LNCT",
+        "Lakshmibai National Institute of Physical Education",
+        "Lal Bahadur Shastri Institute of Management",
+        "Lala Lajpat Rai Institute of Engineering and Technology",
+        "Lalit Narayan Mithila University",
+        "Larsen and Toubro Institute of Technology",
+        "Late Bhausaheb Hiray S.S.Trusts College of Architecture",
+        "Laxmi Devi Institute of Engineering and Technology",
+        "Laxmi Niwas Mittal Institute of Information Technology",
+        "Les Filles MVN Institute of Engineering and Technology",
+        "Lokamanya Tilak PG College",
+        "Lokmanya Tilak College of Engineering",
+        "Lovely Professional University",
+        "Loyola College - Chennai",
+        "Loyola Institute of Business Administration",
+        "Ludhiana College of Engineering and Technology - LCET",
+        "M. S. Ramaiah Institute of Technology - Bangalore",
+        "M.S. Engineering College",
+        "MCKV Institute of Engineering",
+        "MDS University",
+        "MEASI Institute of Information Technology",
+        "MES College of Engineering",
+        "MES College",
+        "MET Institute of Computer Science",
+        "MET Institute of Engineering",
+        "MET Institute of Management",
+        "MGM College of Engineering and Technology",
+        "MH Saboo Siddik College of Engineering",
+        "MIT College of Engineering",
+        "MIT School of Telecom and Management Studies",
+        "MITS School of Biotechnology - MSB",
+        "MK Institute of Computer Studies",
+        "MLR Institute of Technology",
+        "MLV Textile and Engineering College",
+        "MRD Arts and E E Laher Kosadia Commerce College",
+        "MVSR Engineering College",
+        "Maamallan Institute of Technology",
+        "Madanapalle Institute of Technology and Science",
+        "Madha Engineering College",
+        "Madhav Institute of Technology and Science",
+        "Madhira Institute of Technology and Sciences",
+        "Madhya Pradesh Bhoj (Open) University",
+        "Madina Engineering College",
+        "Madras Institute of Technology",
+        "Madurai Kamaraj University",
+        "Magadh University",
+        "Magnus School of Business",
+        "Maha College of Engineering",
+        "Mahakal Institute of Technology and Science",
+        "Maharaj Vijayaram Gajapath Raj College of Engineering",
+        "Maharaja Agrasen Institute of Technology",
+        "Maharaja Engineering College",
+        "Maharaja Institute of Technology",
+        "Maharaja Ranjit Singh College of Professional Sciences - MRS",
+        "Maharaja Surajmal Institute of Technology",
+        "Maharana Pratap Engineering College",
+        "Maharana Pratap University of Agriculture and Technology",
+        "Maharashtra Academy of Engineering",
+        "Maharashtra Animal and Fishery Sciences University",
+        "Maharashtra Institute of Technology (MIT)",
+        "Maharashtra University of Health Sciences",
+        "Maharishi Arvind Institute of Engineering and Technology",
+        "Maharishi Arvind Institute of Science and Management - MAISM",
+        "Maharishi Mahesh Yogi Vedic Vishwavidyalaya",
+        "Maharshi Dayanand Saraswati University",
+        "Maharshi Dayanand University",
+        "Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya",
+        "Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya",
+        "Mahatma Gandhi Institute of Technology - MGIT",
+        "Mahatma Gandhi Kashi Vidyapeeth",
+        "Mahatma Gandhi Memorial Medical College",
+        "Mahatma Gandhi University",
+        "Mahatma Jyotiba Phule (MJP) Rohilkhand University",
+        "Mahatma Phule Krishi Vidyapeeth",
+        "Mahaveer Institute of Science and Technology",
+        "Mahendra Engineering College",
+        "Maheshwara Engineering College",
+        "Mailam Engineering College",
+        "Makhanlal Chaturvedi Rashtriya Patrakarita Vishwavidhyalaya",
+        "Malankara Catholic College",
+        "Malaviya National Institute of Technology",
+        "Malla Reddy College of Engineering and Technology",
+        "Malla Reddy Engineering College",
+        "Mallabhum Institute of Technology",
+        "Malnad College of Engineering",
+        "Malout Institute of Management and Information Technology",
+        "Management Development Institute",
+        "Management Education and Research Institute",
+        "Manav Rachna College of Engineering",
+        "Mandsaur Institute of Technology",
+        "Mangalmay Institute of Management and Technology",
+        "Mangalore University",
+        "Mangalore Institiute of Technology and Engineering",
+        "Manipal Academy of Higher Education",
+        "Manipur University",
+        "Manjara Charitable Trust Rajiv Gandhi Institute of Technology",
+        "Manonmaniam Sundaranar University",
+        "Mar Athanasius College of Engineering",
+        "Mar Thoma Institute of Information Technology - MIIT",
+        "Marathwada Institute of Technology Bulandshahr",
+        "Marathwada Krishi Vidyapeeth",
+        "Marathwada Mitra Mandal College of Engineering",
+        "Marian Engineering College",
+        "Marine Engineering College - MERI",
+        "Marudhar Engineering College",
+        "Matrusri Institute of Post Graduate Studies",
+        "Maulana Azad College",
+        "Maulana Azad College",
+        "Maulana Azad National Institute of Technology",
+        "Maulana Azad National Urdu University",
+        "Medicaps Institute of Technology and Management",
+        "Meenakshi College for Women",
+        "Meenakshi Sundararajan Engineering College",
+        "Meerut Institute of Engineering and Technology",
+        "Meghnad Saha Institute of Technology",
+        "Mepco Schlenk Engineering College",
+        "Military College of Telecommunication Engineering",
+        "Misrimal Navajee Munoth Jain Engineering College",
+        "Mizoram University",
+        "Model Institute of Engineering and Technology",
+        "Model Engineering College",
+        "Modi Institute of Technology",
+        "Mody Institute of Technology and Science",
+        "Mohamed Sathak A.J. College of Engineering",
+        "Mohan Lal Sukhadia University",
+        "Mohandas College of Engineering and Technology",
+        "Mohanlal Sukhadia University - MLSU",
+        "Mona College of Engineering and Technology",
+        "Moolji Jaitha College",
+        "Mother Teresa Institute of Management",
+        "Motilal Nehru National Institute of Technology",
+        "Mount Carmel College",
+        "Mudra Institute of Communications",
+        "Muffakham Jah College of Engineering and Technology",
+        "Mugniram Bangur Memorial Engineering College",
+        "Mukesh Patel School of Technology Management and Engineering",
+        "Mumbai Educational Trust (MET)",
+        "Munnar Engineering College",
+        "Murshidabad College of Engineering and Technology",
+        "Mysore Medical College &amp; Research Institute",
+        "NBKR Institute of Science and Technology",
+        "NERIST",
+        "NLCPAS Navsari",
+        "NMAM Institute of Technology",
+        "NMKRV College",
+        "NRI Institute of Information",
+        "NRI Institute of Technology",
+        "NTR University of Health Sciences Andhra Pradesh",
+        "Nadar Mahajana Sangam S.Vellaichamy Nadar College",
+        "Nagaland University",
+        "Nagarjuna College of Engineering and Technology",
+        "Nagarjuna University",
+        "Nagpur University",
+        "Nalanda Institute of Engineering and Technology",
+        "Nalanda Khula Vishwavidyalaya",
+        "Nalla Malla Reddy Engineering College",
+        "Nallamuthu Gounder Mahalingam College",
+        "Nandha Engineering College - Erode",
+        "Narasu Sarathy Institute of Technology",
+        "Narayana Engineering College",
+        "Narendra Deva University of Agriculture and Technology",
+        "Nargund College of Pharmacy",
+        "Narmada College of Computer Application",
+        "Narsee Monjee Institute of Management and Higher Studies",
+        "Narula Institute of Technology",
+        "National Academy of Legal Studies and Research University",
+        "National Dairy Research Institute",
+        "National Engineering College",
+        "National Institute of Construction Management and Research",
+        "National Institute of Cooperative Management",
+        "National Institute of Design",
+        "National Institute of Engineering",
+        "National Institute of Engineering (NIE) Mysore",
+        "National Institute of Fashion Technology",
+        "National Institute of Industrial Engineering",
+        "National Institute of Information Technology",
+        "National Institute of Mental Health and Neuro Sciences",
+        "National Institute of Pharmaceutical Education and Research",
+        "National Institute of Science and Technology",
+        "National Institute of Technology Calicut (NITC)",
+        "National Institute of Technology Durgapur",
+        "National Institute of Technology Hamirpur",
+        "National Institute of Technology Karnataka",
+        "National Institute of Technology Kurukshetra",
+        "National Institute of Technology Meghalaya",
+        "National Institute of Technology Silchar",
+        "National Institute of Technology Warangal",
+        "National Institute of Technology Trichy",
+        "National Institute of Technology ",
+        "National Insurance Academy (NIA)",
+        "National Law Institute University",
+        "National Law School of India University",
+        "National Law University",
+        "Nehru College of Management",
+        "Nelson Marlborough Institute of Technology",
+        "Netaji Subhas Institute of Technology - Delhi",
+        "Netaji Subhas Open University",
+        "Netaji Subhash Engineering College - NSEC",
+        "Neville Wadia Institute of Management Studies and Research",
+        "New Horizon College of Engineering",
+        "Nirma Institute of Technology",
+        "Nirma University of Science and Technology",
+        "Nishitha College of Engineering and Technology",
+        "Nishitha PG College",
+        "Nitte Meenakshi Institute of Technology",
+        "Nizams Institute of Medical Sciences",
+        "Noble Institute of Science and Technology",
+        "Noida Institute Of Enginnering And Technology",
+        "Noorul Islam College of Engineering",
+        "Nootan Sarva Vidyalaya Sanchalit MCA College",
+        "North Gujarat University",
+        "North Maharashtra University",
+        "North Orissa University",
+        "Northwood High School",
+        "North-Eastern Hill University",
+        "Northern India Engineering College",
+        "Nova College of Engineering and Technology",
+        "N.S.S College of Engineering",
+        "O. U. College for Women",
+        "Oriental Institute of Science and Technology",
+        "Orissa University of Agriculture and Technology",
+        "Osmania University",
+        "Oxford College of Engineering",
+        "Oxford Engineering College",
+        "P. A. College of Engineering",
+        "Palakkad Institute of Science and Technology",
+        "P. E. S. College of Engineering",
+        "P. S. R. Engineering College",
+        "P. V. P. Siddhartha Engineering College",
+        "P.B.R. Visvodaya Institute of Technology and Science",
+        "P.C. Jabin Science College",
+        "P.E. Society Modern College of Engineering",
+        "P.E.S. College Of Engineering",
+        "P.G. College",
+        "PDM College of Engineering",
+        "PRRM Engineering College",
+        "PSG College of Arts and Science",
+        "PSG College of Technology",
+        "PSNA College of Engineering and Technology",
+        "Paavai Engineering College",
+        "Pachaiyappas College",
+        "Dr. D. Y. Patil Institute of Master of Computer Applications",
+        "Dr D. Y. Patil Vidyapeeth",
+        "BVRIT",
+        "Padre Conceicao College of Engineering",
+        "Pailan College of Management and Technology",
+        "Pandit Ravishankar Shukla University",
+        "Pandian Saraswathi yadava Engineering College",
+        "Panimalar Engineering College",
+        "Panipat Institute of Textile and Engineering",
+        "Panjab University",
+        "Park College of Engineering and Technology",
+        "Parul Institute of Engineering and Technology",
+        "Patel College Of Science and Technology",
+        "Patna University",
+        "Peoples Education Society Institute of Technology - PESIT",
+        "Peoples Educational Soceity School of Engineering",
+        "Periyar Maniammai College of Technology for Women",
+        "Periyar University",
+        "Pimpri Chichwad Polytechnic",
+        "Pimpri Chinchwad College of Engineering",
+        "Poddard International College",
+        "Pondicherry Engineering College",
+        "Pondicherry University",
+        "Ponjesly College of Engineering",
+        "Poona College",
+        "Poornima College of Engineering",
+        "Poornima Institute of Engineering and Technology",
+        "Postgraduate Institute of Medical Education and Research",
+        "Potti Sreeramulu Telugu University",
+        "Pragati Engineering College",
+        "Prakasam Engineering College",
+        "Pranveer Singh Institute of Technology",
+        "Prestige Institute of Management Dewas",
+        "Priyadarshini College of Engineering",
+        "Pune Institute of Computer Technology",
+        "Pune Vidhyarthi Grihas College of Engineering and Technology",
+        "Punjab Agricultural University",
+        "Punjab College of Engineering and Technology",
+        "Punjab Engineering College",
+        "Punjab Technical University",
+        "Punjab University - Chandigarh",
+        "Punjabi University Neighbourhood Campus",
+        "Punjabi University Patiala",
+        "Pydah Engineering College",
+        "QIS College of Engineering and Technology",
+        "R. C. Patel Institute of Technology",
+        "R. D. Gardi Medical College",
+        "R. M. K. Engineering College",
+        "R. N. S. Institute of Technology",
+        "R. V. College of Engineering - Bangalore",
+        "R. V. S. College of Arts and Science",
+        "R. V. S. College of Engineering and Technology",
+        "R.P.Sharma Institute of Technology",
+        "RCC Institute of Information Technology",
+        "RL Jalappa Institute of Technology",
+        "RMD Engineering College",
+        "RV College of Engineering",
+        "RVR and JC College Of Engineering",
+        "Rabindra Bharati University",
+        "Radha Govind Engineering College",
+        "Raghu Engineering College",
+        "Raipur Institute Of Tecnology",
+        "Raja College of Engineering",
+        "Raja Mahendra College of Engineering",
+        "Rajagiri School of Engineering and Technology",
+        "Rajalakshmi Engineering College",
+        "Rajarambapu Institute of Technology",
+        "Rajarshi Shahu College Of Engineering - RSCOE",
+        "Rajasthan Agricultural University",
+        "Rajasthan College of Engineering For Women",
+        "Rajasthan Institute Of Engineering and Technology",
+        "Rajasthan Sanskrit Vishwavidyalaya",
+        "Rajasthan Vidyapeeth",
+        "Rajeev Gandhi Memorial College Of Engineering and Technology",
+        "Rajeev Gandhi Institute of Technology",
+        "Rajeev Gandhi Technical University",
+        "Rajendra Agricultural University",
+        "Rajiv Academy For Technology And Management",
+        "Rajiv Gandhi Institute of Technology",
+        "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
+        "Rajiv Gandhi University of Health Sciences",
+        "Rajiv Gandhi University of Knowledge Technologies",
+        "Rajlalakshmi Engineering College",
+        "Ramnarain Ruia College for Arts and Science",
+        "Ramrao Adik Institute of Technology - Navi Mumbai",
+        "Ranchi University",
+        "Ranganathan Engineering College",
+        "Rani Durgavati Vishwavidyalaya",
+        "Rashtriya Sanskrit Vidyapeetha",
+        "Rashtriya Vidyalaya College of Engineering - RVCE",
+        "Rayat Institute of Engineering and Information Technology",
+        "Rayat and Bahra Institute of Engineering and Bio-Technology",
+        "Regency Institute of Technology",
+        "Regional Engineering College",
+        "Reva Institute of Technology and Management",
+        "Rishiraj Institute of Technology",
+        "Rizvi College Of Arts",
+        "Roland Institute of Technology",
+        "Royal School of Management and Technology",
+        "Rukmani Devi Institute of Advanced Studies - RDIAS",
+        "Rungta College of Engineering and Technology",
+        "Rural Engineering College",
+        "Rustamji Institute of Technology - RJIT",
+        "S V Institute of Computer Studies",
+        "S. K. Patel Institute of Management and Computer Studies",
+        "S.R.M.S. College of Engineering and Technology - Bareilly",
+        "S. Sukhjinder Singh Engineering and Technology College",
+        "S.D. Sabha Institute Of Technology",
+        "S.I.E.S. College of Management Studies (SIESCOMS)",
+        "S.K.R. Engineering College",
+        "S.P. Chowgule College",
+        "S.R. Engineering College",
+        "S.V.H. College of Engineering",
+        "S.V.K.P And Dr K.S. Raju Arts And Science College",
+        "S.V.P.M College Of Engineering Malegaon (Bk)",
+        "SACS MAVMM Engineering College",
+        "SASTRA University",
+        "SCSVMV",
+        "SCT Institute of Technology",
+        "SD College",
+        "SDM College of Engineering and Technology",
+        "SDP College for Women",
+        "SGGS College of Engineering and Technology",
+        "SHM Engineering College",
+        "Shobhit University Meerut",
+        "SIBER College",
+        "SJM Institute of Technology",
+        "SLBS Engineering College",
+        "SLC Institute of Engineering and Technology",
+        "SN Kansagra School",
+        "SNS College of Engineering",
+        "SP Jain Institute of Management and Research",
+        "SR Engineering College",
+        "SRK Institute of Technology",
+        "SRM Engineering College",
+        "SRM University",
+        "SS Institute of Technology - Hyderabad",
+        "SS Jain Subodh College",
+        "SSJ Engineering College - Sri Sai Jyothi Engineering College",
+        "SSM College of Engineering",
+        "SSN College of Engineering",
+        "ST. Peters Engineering College",
+        "St. Thomas College Of Engineering &amp; Technology",
+        "STJ Institute of Technology",
+        "SUS College of Engineering and Technology",
+        "SVKP and Dr. Kalidindi Suryanarayana Raju Arts and Science College",
+        "Sagi Ramakrishnam Raju Engineering College - SRKR",
+        "Sahrdaya College of Engineering and Technology",
+        "Sai-Sudhir Post Graduate College",
+        "Sakthi Mariamman Engineering College - SMEC",
+        "Sambalpur University",
+        "Sambhram Institute of Technology",
+        "Sampurnanand Sanskrit Vishwavidyalaya",
+        "Samrat Ashok Technological Institute Vidisha - SATI",
+        "Sanjay Gandhi Memorial Government Polytechnic",
+        "Sanjay Gandhi Postgraduate lnstitute of Medical Sciences",
+        "Sankalchand Patel College of Engineering",
+        "Sankara College",
+        "Sanketika Vidya Parishad Engineering College",
+        "Sant Gadge Baba Amravati University",
+        "Sant Longowal Institiute of Engineering and Technology",
+        "Sapthagiri College of Engineering",
+        "Saranathan College of Engineering",
+        "Sardar Patel College of Engineering - Mumbai",
+        "Sardar Patel Institute of Technology - Mumbai",
+        "Sardar Patel University",
+        "Sardar Vallabhbai Polytechnic College",
+        "Sardar Vallabhbhai National Institute of Technology",
+        "Saroj Mohan Institute of Technology",
+        "Sarva Vidhyalaya Institute of Computer Studies",
+        "Sarvajanik College of Engineering",
+        "Sasi Institute of Technology and Engineering",
+        "Sathyabama Engineering College - Chennai",
+        "Sathyabama Institute of Science and Technology",
+        "Sathyabama University",
+        "Satpriya Institute of Engineering and Technology",
+        "Saurashtra University",
+        "Saveetha Engineering College",
+        "School of Planning and Architecture",
+        "Scient Institute of Technology",
+        "Seacom Engineering College",
+        "Seth Rajiv Govind Sable Institute Of Technology",
+        "Sethu Institute of Technology",
+        "Shadan College of Engineering and Technology",
+        "Shadan Womens College of Engineering and Technology",
+        "Shankara Institute of Technology",
+        "Shanmuganathan Engineering College",
+        "Shanmugha Arts",
+        "Shanmugha College of Engineering - Tamilnadu",
+        "Shantilal Shah Engineering College",
+        "Sharda University",
+        "Shekhawati Engineering College",
+        "Shivaji University",
+        "Shree Rayeshwar Institute of Engineering and IT",
+        "Shree Sant Muktabai Institute of Technology - SMIT",
+        "Shreemati Nathibai Damodar Thackersey Womens University",
+        "Shri Andal Alagar College of Engineering",
+        "Shri Balaji College of Engineering and Technology",
+        "Shri Govindram Seksaria Institute of Technology and Science",
+        "Shri Guru Gobind Singhji College of Engineering and Technology",
+        "Shri Guru Ram Rai Institute of Technology and Science",
+        "Shri Hanuman Vyayam Prasarak Mandals College of Engg and Tech",
+        "Shri Jagannath Sanskrit Vishwavidyalaya",
+        "Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeeth",
+        "Shri Mata Vaishno Devi University",
+        "Shri Ram Murti Smarak College of Engineering",
+        "Shri Ramdeobaba Kamla Nehru College",
+        "Shri Ramswaroop Memorial College of Engineering and Management",
+        "Shri Sant Gajanan Maharaja College of Engineering - SSGM",
+        "Shri Vaishnav Institute of Technology and Science",
+        "Shri Venkteshwar Institute Of Technology",
+        "Shri Vishnu Engineering College for Women",
+        "Shrimad Rajchandra Institute of Management and Computer Application",
+        "Shrinathji Institute of Technology and Engineering",
+        "Siddaganga Institute  of Technology",
+        "Siddharth Institute of Engineering and Technology - SIETK",
+        "Siddhu Kanhu Murmu University",
+        "Sikkim Manipal University of Health",
+        "Sinhgad Academy of Engineering",
+        "Sinhgad College of Engineering - SCOE",
+        "Sinhgad Institute of Management and Computer Application",
+        "Sinhgad Institute of Technology",
+        "Sinhgad Technical Educational Society - Pune",
+        "Sinhudurg Shikshan Prasarak Mandals College of Engineering",
+        "Sipnas College of Engineering and Technology",
+        "Sir C R Reddy College of Engineering",
+        "Sir M. Visvesvaraya Institute of Technology",
+        "Sir Padampat Singhania University",
+        "Sir Visvesvaraya Memorial Engineering College",
+        "Smt Kashibai Navale College Of Engineering",
+        "Smt Kasturbai Walchand College",
+        "Smt Parvatibai Chowgule College",
+        "Kamala and Venkappa M. Agadi College of Engineering and Technology",
+        "SNDT Women's University",
+        "Sobhasaria Engineering College",
+        "Sona College of Technology",
+        "Sophia Girls College Ajmer",
+        "Sourashtra College",
+        "South Gujarat University - Surat",
+        "South Travancore Hindu College",
+        "Sphoorthy Engineering College",
+        "Sree Chaitanya College of Engineering",
+        "Sree Chitra Tirunal Institute for Medical Sciences and Technology",
+        "Sree Dattha Institute of Engineering",
+        "Sree Narayana Guru Institute of Science and Technology",
+        "Sree Sankaracharya University of Sanskrit",
+        "Sree Sastha Engineering College",
+        "Sreenidhi Institute of Science and Technology",
+        "Sreenivasa Institute of Technology and Management Studies",
+        "Sri Balaji College of Engineering and Technology",
+        "Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya",
+        "Sri Datta College of Engineering and Science - SDITS",
+        "Sri Devi Womens Engineering College",
+        "Sri Indu College of Engineering and Technology",
+        "Sri Jagadguru Balagangadaranath swamiji Institute of Technology",
+        "Sri Jagadguru Chandrasekaranathaswamiji Institute of Technology",
+        "Sri Jayachamarajendra College of Engineering",
+        "Sri Kaliswari College",
+        "Sri Krishna College of Engineering and Technology (SKCET)",
+        "Sri Krishnadevaraya University",
+        "Sri Manakula Vinayagar Engineering College",
+        "Sri Muthukumaran Institute of Technology",
+        "Sri Padmavati Mahila Viswavidyalayam",
+        "Sri Prakash College of Engineering Tuni",
+        "Sri Ramachandra Medical College and Research Institute",
+        "Sri Ramakrishna Engineering College",
+        "Sri Ramakrishna Mission Vidyalaya College of Arts and Science",
+        "Sri Ramanujar Engineering College",
+        "Sri Sarathi Institute of Engineering and Technology",
+        "Sri Sathya Sai Institute of Higher Learning",
+        "Sri Shakthi Institute of Engineering and Technology",
+        "Sri Siddhartha Institute of Technology",
+        "Sri Sivasubramaniya Nadar College of Engineering",
+        "Sri Vasavi Engineering College",
+        "Sri Venkatesa Perumal College of Engineering and Technology",
+        "Sri Venkateswara College of Engineering",
+        "Sri Venkateswara University",
+        "Sri Vidyaniketan Engineering College",
+        "Srikalahasteeswara Institute of Technology",
+        "Srimad Andavan Arts and Science College",
+        "Srinivas Institute of Technology-Mangalore",
+        "Srinivasa Institute of Engineering and Technology",
+        "Srinivasan Engineering College",
+        "Sriram Engineering College",
+        "St Anns College of Engineering",
+        "St Josephs College of Engineering",
+        "St Patricks PG College",
+        "St Stephen",
+        "St. Francis Institute of Technology",
+        "St. Johns College of Engineering and Techonology",
+        "St. Josephs College (Autonomous) - Tiruchirappalli",
+        "St. Margaret Engineering College - Neemrana",
+        "St. Martins Engineering College",
+        "St. Marys Engineering College",
+        "St. Theressa Institute of Engineering and Technology",
+        "St. Vincent Pallotti College",
+        "St. Xaviers College",
+        "St.Xaviers Catholic College of Engineering",
+        "SAINTGITS COLLEGE OF ENGINEERING",
+        "Stani Memorial College of Engineering and Technology",
+        "Sudharsan Engineering College",
+        "Sushila Devi Bansal College of Technology",
+        "Swami Keshvanand Institute of Technology",
+        "Swami Parmanand College of Engineering and Technology",
+        "Swami Ramanand Teerth Marathwada University",
+        "Swami Ramananda Tirtha Institute of Science and Technology",
+        "Swami Sachchidanand Polytechnic College Visnagar",
+        "Swami Sahajanand College of Commerce And Management",
+        "Swami Vivekananda PG College",
+        "Swarnandhra College of Engineering",
+        "Symbiosis",
+        "T.K.M. College of Engineering",
+        "TERI School of Advanced Studies",
+        "TRR College of Engineering",
+        "Techno India Salt Lake",
+        "TRUBA Institute of Engineering and Information Technology",
+        "Tagore Engineering College",
+        "Tamil Nadu Agricultural University",
+        "Tamil Nadu Doctor Ambedkar Law University",
+        "Tamil Nadu Doctor M.G.R. Medical University",
+        "Tamil Nadu Veterinary and Animal Sciences University",
+        "Tamil University",
+        "Tamilnadu College of Engineering",
+        "Tata Institute of Fundamental Research - TIFR Mumbai",
+        "Tata Institute of Social Sciences",
+        "Tatysaheb Kore Institute of Engineering and Technology - Warana",
+        "Technocrats Institute of Technology",
+        "Technological Institute Of Textile and Sciences",
+        "Techno India College of Technology",
+        "Teerthanker Mahaveer Institute of Management and Technology",
+        "Tezpur University",
+        "Thadomal Shahani Engineering College",
+        "Thakral College of Technology",
+        "Thakur College Of Engeneering And Technology",
+        "Thangal Kunju Musaliar College of Engineering - TKM",
+        "Thangavelu College",
+        "Thapar Institute of Engineering and Technology",
+        "The American College",
+        "The Heritage Academy",
+        "The Maharaja Sayajirao University of Baroda",
+        "Theegala Krishna Reddy College of Engineering and Technology",
+        "Thiagarajar College of Engineering",
+        "Thiagarajar School of Management",
+        "Tilak Maharashtra Vidyapeeth",
+        "Tilka Manjhi Bhagalpur University",
+        "Toc-H Institute of Science and Technology",
+        "Tripura University",
+        "U. V. Patel College of Engineering",
+        "Ujjain Engineering College",
+        "Union Christian College",
+        "United College of Engineering &amp; Research",
+        "United College of Engineering and Research",
+        "United Institute of Technology - UIT",
+        "University College of Engineering",
+        "University Institute of Computer Science and Applications",
+        "University Institute of Engineering and Technology - UIET",
+        "University Institute of Technology Barkatullah University",
+        "UIT RGPV",
+        "University Visvesvaraya College of Engineering",
+        "University of Agricultural Sciences",
+        "University of Burdwan",
+        "University of Calcutta",
+        "University of Calicut",
+        "University of Delhi - University of Delhi",
+        "University of Hyderabad",
+        "University of Jammu",
+        "University of Kalyani",
+        "University of Kashmir",
+        "University of Kerela",
+        "University of Lucknow",
+        "University of Madras",
+        "University of Mumbai",
+        "University of Mysore",
+        "University of North Bengal",
+        "University of Petroleum and Energy Studies - UPES",
+        "University of Pune",
+        "University of Rajasthan",
+        "University of Roorkee - UP",
+        "University of Vishweshwariya College of Engineering",
+        "Utkal Sanskruti Viswavidyalaya",
+        "Utkal University",
+        "Uttam Devi Mohan Lal College of Engineering",
+        "Uttar Banga Krishni Viswavidyalaya",
+        "Uttar Maharashtra Vidyapeeth",
+        "Uttar Pradesh Rajarshi Tandon Open University",
+        "Uttar Pradesh Technical University",
+        "Uttaranchal Institute of Management",
+        "V. H. N. Senthikumaranadar College",
+        "V. L. B. Janakiammal College",
+        "V. S. Patel College",
+        "V.B.S Purvanchal University",
+        "V.S.M. College",
+        "VEL TECH MULTI TECH Engineering College",
+        "VHNSN College",
+        "VIF College of Engineering and Technology",
+        "VR Siddhartha Engineering College",
+        "VRS College of Engineering and Technology - VRSCET",
+        "VVV College for Women",
+        "Vaagdevi Institute of Technology and Science",
+        "Valliammai Engineering College",
+        "VNRVJIET",
+        "Vardhaman College Of Engineering",
+        "Vasavi College of Engineering",
+        "Veer Kunwar Singh University",
+        "Veer Narmad South Gujarat University",
+        "Veer Surendra Sai University Of Technology",
+        "Veermata Jijabai Technological Institute",
+        "Vel Tech High Tech Dr.Rangarajan Dr.Sakunthala Engineering College",
+        "Velammal College of Management and Computer Studies",
+        "Velammal Engineering College - VEC",
+        "Vellalar College of Engineering and Technology",
+        "Vellore Engineering College",
+        "Vellore Institute of Technology",
+        "Vemana Institute of Technology",
+        "Vickram College of Engineering",
+        "Vidya Academy of Science and Technology",
+        "Vidya Bhawan Rural Institute",
+        "Vidya Jyothi Institute of technology - VJIT",
+        "Vidya Pratishthan College Of Engineering",
+        "Vidyalankar Institute Of Technology",
+        "Vidyalankar Polytechnic",
+        "Vidyasagar Viswavidyalaya",
+        "Vignan Institute of Technology and Science",
+        "Vignans Engineering College",
+        "Vignana Jyothi College Of Engineering And Technology",
+        "Vijetha Degree College",
+        "Vikasa Engineering Institute of Technology",
+        "Vikram University",
+        "Villa Marie P. G. College For Women",
+        "Vimal Jyothi Engineering College",
+        "Vinayaka Missions Research Foundation - University",
+        "Vinoba Bhave University",
+        "Vishwakarma Institute of Technology",
+        "Visva-Bharati",
+        "Visvesvaraya National Institute of Technology",
+        "Visvesvaraya Technological University",
+        "Visveswaraiah Technological University",
+        "Viswajyothi College of Engineering and Technology",
+        "Vivekanand Education Society Institute of Technology",
+        "Vivekanand Institute of Technology",
+        "Vivekananda College of Computer Science",
+        "Vivekanandha Institute of Engineering and Technology for Women",
+        "Vivekanandha College of Technology for Women",
+        "Vivekananda Institute of Technology and Science",
+        "Vivekananda Institute of Technology",
+        "Vivekananda School of Post Graduate Studies",
+        "Walchand College of Engineering",
+        "West Bengal National University of Juridical Sciences",
+        "West Bengal University of Animal and Fishery Sciences",
+        "West Bengal University of Technology",
+        "Womens College",
+        "XLRI Jamshedpur Business School",
+        "Xavier Institute of Management",
+        "Xavier Institute of Social Service",
+        "Yagyavalkya Institute of Technology - YIT",
+        "Yashwantrao Chavan Maharashtra Open University",
+        "Yeahwantro Chavan College Of Engineering (YCCE)",
+        "Zakir Hussain College of Engg &amp; Technology",
+        "Velalar College of Engineering and Technology",
+        "Sri Eshwar College Of Engineering",
+        "PSG Institute Of Technology and Applied Research",
+        "Mahendra Institute of Technology",
+        "knowledge institute of technology",
+        "seagi",
+        "sree vidyanikethan engineering college",
+        "Gayatri Vidya Parishad College of engineering for women ",
+        "KIT - Kalaignar Karunanidhi Institute of Technology",
+        "Info Institute of Engineering",
+        "KPR Institute of Engineering and Technology",
+        "Sri Sairam Institute of technology",
+        "Dr.NGP Institute of technology",
+        "PSGR Krishnammal College for Women",
+        "Central Institute of Plastic Engineering and Technology",
+        "Akshaya College of Engineering and Technology",
+        "Sree Sakthi Engineering College",
+        "Muthoot Institute of Technology and Science",
+        "Indian Institute of Information Technology",
+        "Ramco Institute of Technology",
+        "Dhirajlal Gandhi College of Technology",
+        "Velammal College Of Engineering and Technology",
+        "TRP Engineering College",
+        "Nandha College of Technology",
+        "MIET Engineering College",
+        "Christ college of engineering and technology",
+        "K. Ramakrishnan College of Technology",
+        "Sri Ramakrishna Institute of Technology",
+        "Sree Chitra Thirunal College of Engineering",
+        "Galaxy Institute of Technology",
+        "JCT College of Engineering and Technology",
+        "Sri Krishna College of Technology (SKCT)",
+        "Daiata Madhusudhana Sastry sri venkateswara hindu Colllege of Engineering",
+        "CMF College",
+        "CMS College",
+        "Kongunadu Institute of Engineering and Technology",
+        "bharathi matriculation higher secondary school",
+        "Mahatma Gandhi Medical College & Research Institute",
+        "SSS Film Academy",
+        "Rathinam College of Arts",
+        "SSN Institute of Engineering & Technology",
+        "sri guru institute of technlogy",
+        "Suguna PIP School",
+        "Nehru College of Aeronautics & Applied science",
+        "SVS College of Engineering",
+        "KAP Viswanatham Government Medical College",
+        "SSM Institute of Engineering and technology",
+        "NGM Arts & Science College",
+        "SNS College of Technology",
+        "RVS College of engineering and technology",
+        "Nehru Institute OF Engineering & Technology",
+    ];
